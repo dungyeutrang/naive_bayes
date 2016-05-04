@@ -1,0 +1,53 @@
+﻿Sinh viên Phương Đông xây dựng phần mềm học tiếng Anh cho trẻ
+THÙY LINH 29/03/16 10:26   THẢO LUẬN (0)
+(GDVN) - Nhân dịp kỷ niệm ngày thành lập Đoàn, ngày 26/3, trường Đại học dân lập Phương Đông tổ chức Hội thảo khoa học về công nghệ thông tin và truyền thông.
+Thanh niên đừng nghĩ mình kém cỏi
+Trường đại học Phương Đông công bố 23 đề tài khoa học của sinh viên về công nghệ
+Đào tạo truyền thông trong kỷ nguyên số có lợi thế gì?
+Tới dự Hội thảo khoa học lần thứ 14 về công nghệ thông tin và truyền thông có Thứ trưởng Bộ Thông tin và  truyền thông - TS. Nguyễn Minh Hồng; ông Hà Thái Bảo- Giám đốc VNPT software và các chuyên gia hàng đầu trong lĩnh vực công nghệ thông tin; Ban giám hiệu Nhà trường cùng thầy cô, sinh viên trong khoa công nghệ thông tin-truyền thông, Đại học dân lập Phương Đông. 
+
+Phát biểu khai mạc hội thảo, ông Trần Văn Lộc, Phó Trưởng khoa công nghệ thông tin và truyền thông trường Đại học dân lập Phương Đông cho biết, bên cạnh chương trình đào tạo phù hợp, công tác nghiên cứu khoa học có vai trò rất quan trọng đóng góp vào thành công đào tạo của một trường đại học, nâng tầm ảnh hưởng của trường với xã hội và các đơn vị tuyển dụng. 
+
+Khi tham gia vào nghiên cứu khoa học thì mỗi sinh viên được tham gia vào môi trường độc lập, mở mang hiểu biết, trang bị cho sinh viên những kiến thức, kinh nghiệm quý báu trong hành trang vào đời. 
+
+
+Năm 2016, Hội đồng khoa học đã tiến hành xét duyệt được 53 báo cáo (Ảnh: Thùy Linh)
+Theo thông tin từ trường Đại học dân lập Phương Đông, năm 2016, Hội đồng khoa học đã tiến hành xét duyệt được 53 báo cáo, trong đó 30 báo cáo của cán bộ, giáo viên và 23 báo cáo của sinh viên như: 
+
+Điều biến số vị trí xung hỗn loạn ứng dụng; Tìm hiểu công nghệ 5G; Tìm hiểu và xây dựng hệ thống phòng chống xâm nhập sử dụng Snort; Xây dựng chương trình quản lý nhân sự; Lập trình đa nền tảng mobile bằng COCOS2D-X xây dựng phần mềm học tiếng Anh cho trẻ em….
+
+Nhìn nhận thấy nhiều gia đình không có điều kiện về thời gian, tài chính để cho con đi học tại các trung tâm Anh ngữ và nhiều bậc phụ huynh chưa biết làm thế nào để trẻ đam mê với tiếng Anh. 
+
+Thậm chí, do có quá nhiều trung tâm Anh ngữ cho trẻ nhưng các bậc cha mẹ không biết trung tâm nào là sự lựa chọn tốt nhất bởi không có thước đo nào cho trình độ Anh ngữ của các bé vì 99% trẻ chỉ thích chơi chứ không thích học. 
+
+Trong khi đó, khoa học chứng minh, chỉ kho não  bộ của bé thích thú với một vấn đề nào đó bé mới có thể tiếp thu nhanh nhất và giỏi nhất trong lĩnh vực đó. Tiếng Anh trẻ em cũng vậy. 
+
+Xây dựng ý tưởng đó, nhóm sinh viên do Ths Nguyễn Thị Hạnh hướng dẫn đã xây dựng mini game vừa học vừa chơi Kids Book cho trẻ từ 2 đến 5 tuổi trên ứng dụng Android. Kids book có cả phần tiếng anh và tiếng viết kèm theo hình ảnh, giúp cho trẻ có thể tự học qua các màn chơi của game. 
+
+
+Sinh viên Vũ Duy Anh báo cáo đề tài lập trình đa nền tảng mobile bằng COCOS2D-X xây dựng phần mềm học tiếng Anh cho trẻ em(Ảnh: Thùy Linh)
+Việc này giúp cho các bà mẹ có thể làm các việc khác nhau thay vì ngồi và giải thích từng từ vựng cho trẻ. Game sẽ chia ra thành các chủ đề khác nhau,  trẻ có thể tự do lựa chọn các chủ đề mà mình thích và nghe những từ mà trẻ nghe được từ máy và chọn vào bức ảnh mà trẻ cần phải tìm ra. 
+
+Khi trẻ Click đúng vào hình ảnh được nói đến trong game, game sẽ tự chuyển sang màn chơi thứ hai. Còn khi trẻ click sai hình ảnh cần tìm, máy sẽ nói “SORRY”. 
+
+Mỗi lần chọn đúng trẻ sẽ được cộng thêm một điểm vào điểm tích lũy trong game và được ghi tên mình vào trong mục người dùng. 
+
+Nếu ở các game khác chủ yếu thiên về một ngôn ngữ trong game thì Kids Book sử dụng cả tiếng Anh và tiếng Việt để trẻ phát triển song song cả 2 ngôn ngữ cùng một lúc. 
+
+Tại hội thảo, Thứ trưởng Bộ Thông tin & truyền thông Nguyễn Minh Hồng đánh giá cao hoạt động nghiên cứu khoa học của khoa công nghệ thông tin và truyền thông và tin rằng các nghiên cứu của thầy cô và sinh viên trường Đại học dân lập Phương Đông sẽ có đóng góp tích cực cho sự phát triển của ngành công nghệ thông tin và truyền thông. Đồng thời là câu nối gắn kết giữa doanh nghiệp và sinh viên. 
+
+Trên cơ sở đó, Việt Nam sẽ có nguồn nhân lực mạnh để cung cấp cho các doanh nghiệp công nghệ thông tin và truyền thông nhằm thúc đẩy ứng dụng công nghệ thông tin.
+
+
+Thứ trưởng Bộ Thông tin & truyền thông Nguyễn Minh Hồng phát biểu tại Hội thảo (Ảnh: Thùy Linh)
+Thứ trưởng cho rằng hiện doanh số đóng góp công nghệ thông tin và truyền thông của các doanh nghiệp Việt chủ yếu trong lĩnh vực viễn thông, còn trong lĩnh vực công nghệ thông tin vẫn chưa tương xứng với tiềm năng.
+
+Doanh số đóng góp công nghệ thông tin và truyền thông của doanh nghiệp Việt Nam mới chủ yếu ở lĩnh vực Viễn thông, còn lĩnh vực công nghệ thông tin thì còn chưa tương xứng với tiềm năng.
+
+Thứ trưởng nhấn mạnh, trong năm 2015, dù công nghệ thông tin và truyền thông Việt Nam đã có những bước phát triển mạnh mẽ, đóng góp hơn 10% vào GDP quốc gia nhưng so với tiềm năng thì những đóng góp này vẫn chưa thực sự rõ ràng. 
+
+Doanh số phần lớn vẫn đến từ doanh nghiệp đầu tư nước ngoài. Doanh nghiệp Việt Nam đóng góp chủ yếu trong lĩnh vực viễn thông còn với lĩnh vực công nghệ thông tin thì doanh nghiệp Việt chưa còn nhỏ. 
+
+Thứ trưởng bày tỏ mong muốn, Đại học dân lập Phương Đông là một trong những trường dân lập hàng đầu cả nước với nhiều ngành đào tạo trong đó có công nghệ thông tin và truyền thông sẽ được phát triển mạnh hơn nữa qua các phong trào thi đua để cung cấp đội ngũ nguồn nhân lực ngày càng hiệu quả. 
+
+Thùy Linh

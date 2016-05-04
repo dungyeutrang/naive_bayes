@@ -1,0 +1,20 @@
+﻿Lỗ hổng bảo mật trên các trình duyệt hàng đầu Trung Quốc
+11:15 30/03/2016 13
+3
+1
+ Ba trình duyệt lớn tại Trung Quốc hiện không bảo vệ tốt dữ liệu và thông tin người dùng, theo báo cáo của nhóm nghiên cứu Citizen Lab của Canada.
+Bản báo cáo mới công bố của Citizen Lab thuộc Đại học Tổng hợp Toronto cho biết phiên bản dành cho Android và Windows của QQ Browser - trình duyệt web của Tencent's tự động bóc tách dữ liệu và gửi đi thông tin cá nhân mà không mã hoá để bảo vệ. 
+
+Lo hong bao mat tren cac trinh duyet hang dau Trung Quoc hinh anh 1
+Sau UC Browser của Alibaba và trình duyệt của Baidu, đến lượt QQ Browser của Tencent bị đưa ra ánh sáng. Ảnh: TechInAsia. 
+Trước đó, Citizen Lab cũng đã có hai bản báo cáo về UC Browser và Baidu Browser, hai trình duyệt web được hàng chục triệu người dùng tại Trung Quốc, vốn sở hữu bởi hai gã khổng lồ Internet Baidu và Alibaba, chứa những mối nguy hại với dữ liệu người dùng.
+
+"Trình duyệt web được phó thác để sử dụng những thông tin nhạy cảm mà người dùng nhập vào và truyền nó đến máy chủ web", Citizen Lab khẳng định. "Tuy nhiên, QQ Browser và những trình duyệt khác (ở Trung Quốc) đã vi phạm quy tắc chung bằng cách không chỉ thu thập thông tin quan trọng của người dùng (mật khẩu, tài khoản,...) mà còn truyền tải chúng một cách kém an toàn".
+
+Theo Citizen Lab, hành vi của các trình duyệt web này có thể tiếp tay cho một bên thứ ba theo dõi người dùng, chẳng hạn như chính quyền. Những thông tin nhạy cảm này có thể bao gồm dữ liệu vị trí, thói quen tìm kiếm, những website đã truy cập và mã định danh gắn với thiết bị người dùng. 
+
+Trong thông cáo mới nhất, Tencent cho biết vấn đề trên đã được nghiên cứu và giải quyết. Công ty này khẳng định chính sách riêng tư của mình phù hợp với tiêu chuẩn và luật lệ Trung Quốc.
+
+Tuy nhiên, những nhà nghiên cứu của Citizen Lab cho biết họ đã kiểm tra những bản cập nhật gần đây của QQ Browser và thấy rằng những bất cập nói trên vẫn tồn tại, hoặc chỉ được khắc phục nửa vời. Những cuộc điều tra sắp tới của nhóm này sẽ nhằm mục đích minh bạch hoá việc vì sao những trình duyệt web đến từ ba công ty Internet lớn nhất Trung Quốc lại ngang nhiên thu thập thông tin của người dùng.
+
+Theo CNN, những công ty trên có thể đã chịu áp lực vô hình từ phía chính quyền. Doanh nghiệp Internet tại Trung Quốc vốn xuôi theo những nỗ lực che giấu những nội dung nhạy cảm và phân tích hành vi người dùng. Tencent, Baidu hay Alibaba không phải là những trường hợp cá biệt.

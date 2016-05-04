@@ -1,0 +1,17 @@
+﻿Apple Watch tương lai có thể cứu mạng chủ nhân
+12/03/2016  16:52 GMT+7
+Một mẫu bằng sáng chế gần đây của Apple cho phép những chiếc đồng hồ thông minh Apple Watch tương lai có thể cứu mạng người đeo trong trường hợp khẩn cấp.
+
+Apple Watch, cứu mạng chủ nhân, Apple Watch tương lai, bằng sáng chế Apple
+
+Với cái tên "Phát hiện và Cảnh báo Sự kiện nguy hiểm", sáng chế này cho phép thiết bị điện tử có thể phát hiện nguy cơ đe dọa tính mạng bằng cách theo dõi dữ liệu người dùng và môi trường xung quanh từ một hoặc nhiều nguồn cảm biến khác nhau, rồi sau đó gửi đi cảnh báo nếu cần thiết.
+
+Sự kiện nguy hiểm có thể là bất cứ tình huống khẩn cấp nào cần tới trợ giúp y tế, chẳng hạn tai nạn xe hơi, tai nạn xe đạp, cấp cứu y tế, trẻ nhỏ rời khỏi phạm vi quan sát, bị cướp hoặc nhiều ngữ cảnh khác.
+
+Việc phát hiện này có thể dựa trên cảm biến đồng hồ hoặc từ các thiết bị khác. Chẳng hạn, có thể phát hiện va chạm xe hơi nếu cảm biến gia tốc nhận thấy sự thay đổi đột ngột về tốc độ. Hoặc phát hiện cơn đau tim khi theo dõi thấy nhịp tim không còn đập.
+
+Sau khi phát hiện những tình huống nguy hiểm trên, đồng hồ sẽ gửi thông báo cho người thân hoặc tổ chức chăm sóc y tế nằm trong danh sách lựa chọn trước của người dùng. Đó có thể là cứu thương, cứu hỏa, cảnh sát, bệnh viện, bạn bè hoặc gia đình người thân. Người dùng có thể thiết lập cơ chế liên lạc với số khẩn cấp dựa trên loại hình nguy hiểm, thậm chí còn thiết lập được danh sách ưu tiên lần lượt.
+
+Hiện chưa rõ kế hoạch sử dụng sáng chế trên của Apple ra sao. Tuy nhiên, nhiều nguồn tin cho thấy hãng này rất coi trọng các dữ liệu y khoa và chúng sẽ đóng vai trò chính trên những chiếc smartwatch tương lai. Chính vì vậy, khả năng lớn là Apple Watch sẽ sớm được trang bị tính năng này.
+
+Nguyễn Minh(theo Digitaltrends)

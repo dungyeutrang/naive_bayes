@@ -1,0 +1,29 @@
+﻿"Thiếu cơ chế, ngân sách thì khó nói chuyện Chính phủ điện tử"
+30/03/2016  12:09 GMT+7
+- Phó Chủ nhiệm Văn phòng Chính phủ Lê Mạnh Hà khẳng định, nếu không có cơ chế và nguồn ngân sách đủ dùng để xây dựng hai hệ thống liên thông văn bản và Cổng dịch vụ công quốc gia thì rất khó phát triển "Chính phủ điện tử".
+
+Chia sẻ tại Hội thảo về Chính phủ điện tử sáng nay, 30/3, ông Lê Mạnh Hà cho biết Nghị quyết 36a của Chính phủ về Chính phủ điện tử có 3 nhiệm vụ quan trọng, đó là phải liên thông được toàn bộ các hệ thống văn bản điện tử trên cả nước (từ cấp xã, huyện, tỉnh, thành phố, từ trung ương đến địa phương và ngược lại), đảm bảo thông suốt từ trên xuống dưới và từ dưới lên trên. Nhiệm vụ thứ hai là phải triển khai các dịch vụ công phục vụ người dân và doanh nghiệp, trong đó các Bộ, ngành, địa phương phải tập trung, tích hợp những dịch vụ công trực tuyến mà mình cung cấp lên một Cổng quốc gia duy nhất. Tại đây, người dân có thể tra cứu thông tin cũng như tiến hành các dịch vụ công đó.
+
+Chính phủ điện tử, Văn phòng chính phủ, thuê dịch vụ CNTT
+Phó Chủ nhiệm VPCP Lê Mạnh Hà: Thiếu cơ chế, ngân sách thì không làm được CPĐT. Ảnh: T.H
+Nhiệm vụ cuối cùng, "không có nó thì không làm được 2 nhiệm vụ trên", chính là xây dựng, hoàn thiện các cơ chế và nguồn ngân sách, kinh phí phục vụ Chính phủ điện tử. Tuy vậy, ông Lê Mạnh Hà cũng bộc bạch rất thẳng thắn rằng đây là cơ chế "rất khó khăn để có được": Thời gian qua, các hoạt động đầu tư, mua sắm dịch vụ, sản phẩm, thuê dịch vụ CNTT vẫn đang phải thực hiện theo cơ chế cũ, rất khó khăn do nguồn kinh phí hạn hẹp. Vì vậy mà nhiệm vụ quan trọng trong thời gian tới là phải "tăng cường được nguồn lực (kinh phí, ngân sách) để làm", vị đại diện VPCP cho biết.
+
+Có thể nói, vấn đề cơ chế, kinh phí, nguồn lực luôn là một vấn đề "nóng", nhất là với những dự án "công" như Chính phủ điện tử. Ông Nguyễn Phú Tiến, Phó Cục trưởng Cục Tin học hóa (Bộ TT&TT) cũng đồng tình rằng, nguồn chi cho Chính phủ điện tử (của các Bộ, ngành, địa phương, Trung ương) còn thấp. "Nếu chúng ta chỉ nói đến mục tiêu, định hướng mà không có cơ chế, ngân sách thì sẽ rất khó làm".
+
+Huy động nguồn lực xã hội?
+
+Để đẩy nhanh việc xây dựng Chính phủ điện tử, ông Tiến đề xuất Chính phủ, bộ, ngành nên tìm kiếm các đối tác, huy động các nguồn lực của xã hội - như một giải pháp khả thi để bù đắp cho sự hạn hẹp của ngân sách.
+
+Quan điểm này nhận được sự chia sẻ từ nhiều chuyên gia. Ông Thiều Phương Nam, TGĐ Qualcomm Đông Dương lấy ví dụ tại Singapore, hệ thống thu phí lưu thông qua những chỗ đông người, hay kẹt xe đối với phương tiện đều được thực hiện tự động, không dây. Hệ thống cũng phân tích, tính toán được lúc nào lưu lượng giao thông trên đường đông hơn để tính phí cao hơn. Người dân muốn tiết kiệm tiền thì phải tránh những khung giờ cao điểm này, hoặc sử dụng những phương tiện giao thông công cộng.
+
+Tuy nhiên, vị chuyên gia này xác nhận rằng, muốn triển khai được những dự án thông minh nói trên thì phải có nguồn lực và ngân sách, Chính phủ sẽ phải ưu tiên chi tiêu cho Chính phủ điện tử. Trước ý kiến cho rằng Việt Nam đang "eo hẹp" về ngân sách và khó đầu tư lớn cho những dự án đòi hỏi công nghệ cao như Singapore đang áp dụng, ông Nam cho biết, thực chất dự án giao thông thông minh nói trên của Singapore là một dự án thương mại, chứ không phải mọi dự án đều là vốn đầu tư của Nhà nước. Khi triển khai dịch vụ, nhà thầu có thể thu phí của người đi xe để thu hồi vốn đầu tư.
+
+"Chúng ta không nên chờ đợi, trông cậy hết vào nguồn lực Nhà nước. Nhiều dịch vụ Chính phủ điện tử khi triển khai cũng cần phải khả thi về mặt thương mại để kêu gọi nguồn lực từ xã hội", ông Nam khuyến nghị. Tất nhiên, việc áp dụng những công nghệ như của Singapore vào Việt Nam cũng còn nhiều cái khó nữa như công nghệ, hạ tầng đường sá... Tuy vậy, Việt Nam vẫn có thể áp dụng được "ý tưởng và mô hình", với sự điều chỉnh lại cho phù hợp với thực tiễn.
+
+Có chung quan điểm, ông Phạm Minh Tuấn, TGĐ FPT IS cho biết chỗ nào có dịch vụ, chỗ đó nên có xã hội hóa. Dịch vụ công không nên chỉ do một đơn vị cung cấp mà phải có nhiều đơn vị để tạo sự cạnh tranh, cải tiến liên tục và thu hút người dùng.
+
+Bên cạnh đó, các chuyên gia cũng khuyến nghị rằng, do điều kiện ngân sách hạn chế, Việt Nam nên triển khai Chính phủ điện tử một cách có trọng tâm, trọng điểm, ưu tiên làm trước những lĩnh vực mà người dân quan tâm, có nhu cầu lớn như giao thông, y tế - sức khỏe, an toàn thực phẩm.....
+
+Cũng liên quan đến vấn đề này, ông Đặng Vũ Tuấn, Phó GĐ Sở TT&TT Hà Nội cho biết, Thành phố đã bố trí đủ kinh phí để ứng dụng CNTT trong giai đoạn 2016-2020, nhưng ưu tiên thuê ngoài để tối ưu hóa nguồn lực. "Hà Nội dự kiến triển khai mạng trên diện rộng, thuê các dịch vụ như trung tâm dữ liệu của Viettel, VNPT Hà Nội, hoàn thành kết nối liên thông văn bản, tích hợp chữ ký số của lãnh đạo Thành phố trong thời gian tới". Đặc biệt, Hà Nội cũng đặt mục tiêu nâng cấp hệ thống điều khiển tín hiệu đèn giao thông, nâng cấp hệ thống ứng dụng CNTT vào giao thông, "làm cơ sở hình thành hệ thống giao thông thông minh trước ngày 1/7/2017".
+
+Trọng Cầm

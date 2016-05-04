@@ -1,0 +1,13 @@
+﻿(Techz.vn) Một kỷ lục mới về tốc độ truyền dẫn dữ liệu thông qua cáp quang với con số ghi nhận lên tới 57Gbps.
+
+BÀI VIẾT LIÊN QUAN
+Không chỉ có cá mập, loài khỉ cũng rất 'thích thú' với cáp quang
+Tốc độ truyền tải bằng cáp quang đã lên tới 140 Gigabyte/giây
+Bảo trì đột xuất tuyến cáp quang AAG, truy cập internet khó khăn
+Việc truyền tải dữ liệu thông qua sợi quang đang liên tiếp đạt được những lỷ lục mới. Các nhà nghiên cứu thuộc Đại học Khoa học Illinois cho biết họ đã đạt tốc độ truyền dâĩ lên tới 57Gbps, tương đương 7,125GB/s. Quan trọng hơn, tốc độ đạt được ngay trong nhiệt độ phòng và không cần phải làm mát các thiết bị đầu cuối trước khi thực hiện. Thậm chí, khi nhiệt độ môi trường tăng lên 185 độ F (tương đương 85 độ C), hệ thống này vẫn đảm bảo một tốc độ lên tới 50Gbps, một con số đáng nể.
+
+Thêm một kỷ lục mới về tốc độ truyền tải dữ liệu qua cáp quang
+
+Thành công của nhóm nghiên cứu thuộc Đại học Illinois sẽ mang tới những giải pháp mới cho các trung tâm dữ liệu, trung tâm hàng không… cần truyền tải dữ liệu ngẫu nhiên trong một thời gian dài. Nếu được triển khai trên thực tế, việc quay phát nội dung 4K trực tuyến sẽ trở nên dễ dàng, ngay cả những nơi có điều kiện khắc nghiệt nhất.
+
+Hãy thử tưởng tượng, nếu sở hữu đường truyền trên, bạn sẽ tải một bộ film Bluray chỉ trong vỏn vẹn có vài giây mà thôi, quá ấn tượng!

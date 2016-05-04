@@ -1,0 +1,23 @@
+﻿Pin Galaxy S7 thua cả S6, iPhone 6s
+09/03/2016  15:58 GMT+7
+Dù sở hữu dung lượng pin lớn hơn nhưng thời lượng thực tế của pin Galaxy S7 lại kém hơn so với model ra mắt năm ngoái.
+
+Tại MWC 2016, Samsung tuyên bố S7 sở hữu pin lên tới 3000 mAh, lớn hơn 450 mAh so với S6. Người dùng vì thế rất hy vọng vào thời lượng pin của S7, nhất là khi 2 con dế A5 và A7 tầm trung mà Samsung tung ra gần đây có thể hoạt động liên tục trong 10 tiếng không nghỉ.
+
+Samsung, Galaxy S7, Galaxy S6, pin, smartphone
+Galaxy S7 có pin 3000 mAh nhưng thời lượng sử dụng lại gây thất vọng
+Thế nhưng thực tế đã không lạc quan được như vậy.
+
+Trong các bài test về pin do trang PhoneArena tiến hành hôm qua, Galaxy S7 chỉ trụ được 6 giờ 37 phút, gây thất vọng lớn nếu so sánh với thời lượng 7 tiếng 14 phút của S6. Đây thực sự là một sự thụt lùi khó hiểu, khi mà dung lượng pin của nó lớn hơn đáng kể so với model tiền nhiệm.
+
+Tuy vậy, PhoneArena cũng chỉ ra một số điểm có thể ảnh hưởng đến kết quả cuộc thử nghiệm. Thứ nhất, bản S7 mà họ test là do mạng Verizon (Mỹ) phân phối, trang bị chipset Snapdragon 820 thay vì chip Exynos của Samsung. Thứ hai, để đảm bảo sự đồng bộ cho tất cả các thiết bị thử nghiệm, PhoneArena luôn chỉnh độ sáng ở mức 200 nits và chạy những đoạn mã được thiết kế để giả lập mức tiêu thụ điện năng trong thực tế.
+
+Nói về thời gian cần thiết để sạc đầy pin S7, các chuyên gia của PhoneArena phải đợi 88 phút. Họ đánh giá đây là một tốc độ tốt, do dung lượng pin của S7 lớn hơn nên cần nhiều thời gian hơn S6 để cán mốc 100%. "88 phút là kết quả vẫn thuộc tốp đầu và hoàn toàn hợp lý", họ đánh giá.
+
+Samsung, Galaxy S7, Galaxy S6, pin, smartphone
+Bảng xếp hạng cho thấy thời lượng pin của S7 chỉ ở tốp trung bình
+Thế nhưng thời lượng pin thực tế thì lại là câu chuyện khác. Các chuyên gia đã hy vọng nó sẽ nhỉnh hơn S6, hoặc trong kịch bản lý tưởng nhất, thời lượng pin của S7 phải cải thiện đáng kể so với model tiền nhiệm. Ấy thế nhưng S7 không chỉ thua S6 mà còn kém cả nhiều đối thủ khác ra mắt trước nó như iPhone 6s và thậm chí là Xperia Z5.
+
+Với 6 giờ 37 phút, S7 chỉ thuộc tốp trung bình về thời lượng pin. S7 Edge khá hơn một chút khi trụ được 7 giờ 18 phút, thuộc nhóm (tốt) và nhỉnh hơn S6 đúng 4 phút. Thời lượng pin của S7 chỉ hơn được One M9 (6h 25 phút), LG G4 (6 giờ 6 phút) mà thôi.
+
+T.C

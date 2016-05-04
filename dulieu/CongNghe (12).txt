@@ -1,0 +1,23 @@
+﻿"Không thể coi an ninh mạng là chuyện nội bộ"
+23/03/2016  10:30 GMT+7
+Thứ trưởng Bộ TT&TT Nguyễn Thành Hưng khẳng định, nếu các nước chỉ coi chiến tranh mạng là vấn đề nội bộ, không chia sẻ thông tin và hợp lực cùng nhau để phòng chống thì sẽ rất nguy hiểm.
+
+Chia sẻ trong cuộc làm việc với đại diện hãng bảo mật Palo Alto Networks sáng nay, 23/3, ông nhấn mạnh một lần nữa tầm quan trọng của việc hợp tác giữa các chính phủ, cũng như giữa chính phủ với tổ chức, doanh nghiệp trong việc ngăn chặn, phòng ngừa tội phạm mạng và chiến tranh mạng. "Không ai có thể đơn độc chống lại vấn đề này và cũng không ai có thể cảm thấy được an tâm trước các cuộc tấn công mạng cả", ông chỉ ra.
+
+an ninh mạng, bảo mật, ATTT
+Thứ trưởng Nguyễn Thành Hưng (phải) làm việc với đại diện Palo Alto Networks. Ảnh: Giang Phạm
+Hoàn toàn đồng tình với quan điểm này, ông Steve Redman - Phó Chủ tịch Palo Alto Networks phụ trách khu vực châu Á- Thái Bình Dương cho rằng, chia sẻ chính là từ khóa quan trọng để đối phó với vấn đề an ninh mạng. "Chúng tôi thực sự tin rằng ngành công nghệ bảo mật cần phải chia sẻ thông tin và tầm nhìn tổng thể với nhau để tăng cường sức mạnh chung". Hiện tại, Palo Alto và các đối tác đã thiết lập được một hệ thống phát hiện, rò quét các nguy cơ mới, chưa được cập nhật trong cơ sở dữ liệu chung để chia sẻ trên toàn mạng lưới. "Chúng tôi tin rằng mô hình crowdsourcing này là cách tiếp cận hữu hiệu nhất, vì nó huy động được tối đa nguồn lực của nhiều bên trong cuộc chiến chống tội phạm mạng", ông Redman chia sẻ.
+
+Trước mong muốn của Thứ trưởng Hưng về việc trong thời gian tới, Palo Alto sẽ có sự hợp tác, phối hợp chặt chẽ với Cục An toàn thông tin, đơn vị chuyên trách các vấn đề bảo mật mạng của Bộ TT&TT, ông Redman cho biết, hiện Tập đoàn này đang hợp tác cùng nhiều chính phủ và cả tổ chức Interpol. "Khi phát hiện nguy cơ, chúng tôi chia sẻ thông tin cho nhà chức trách rất nhanh. Chúng tôi hứa cũng sẽ chia sẻ những thông tin như vậy cho Việt Nam".
+
+An ninh mạng không chỉ là mua sắm thiết bị
+
+Một quan điểm nữa cũng được Thứ trưởng Hưng nêu ra tại cuộc làm việc, đó là an ninh mạng không đơn giản chỉ là việc mua sắm thiết bị, phần mềm mà chúng ta cần phải có giải pháp, phải có nguồn nhân lực để đảm nhận.
+
+Liên quan đến vấn đề này, đại diện Palo Alto nhất trí rằng, an ninh mạng đòi hỏi phải có sự phối hợp hài hòa giữa 3 yếu tố con người, quy trình và công nghệ. Trong đó, ưu tiên những quy trình, công nghệ có thể tự động phát hiện và cảnh báo nguy cơ để tiết kiệm chi phí và giảm thiểu nhân sự chuyên trách. Bên cạnh đó, việc đào tạo, giáo dục nguồn nhân lực cũng rất quan trọng. Hiện Palo Alto đã tổ chức nhiều khóa đào tạo, huấn luyện nhân sự ATTT ở châu Á như Singapore, Phillippines và Đài Loan...
+
+"Chúng tôi tin rằng không thể bảo vệ tất cả mọi người tất cả mọi lúc. Điều chúng tôi nên làm là tạo điều kiện, hỗ trợ để các bạn có thể quản trị và ngăn ngừa các nguy cơ", ông Redman cho hay. "Đó là lý do vì sao chúng tôi đầu tư rất mạnh tay cho lĩnh vực giáo dục, đào tạo nhân lực".
+
+Thứ trưởng Nguyễn Thành Hưng bày tỏ mong muốn trong thời gian tới, phía Palo Atlo sẽ đầu tư nhiều hơn tại Việt Nam, cũng như hai bên sẽ có chung những nỗ lực, hợp tác trong lĩnh vực an ninh mạng, cả với cơ quan quản lý cũng như các doanh nghiệp bảo mật Việt Nam.
+
+T.C

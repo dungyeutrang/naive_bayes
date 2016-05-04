@@ -1,0 +1,15 @@
+﻿Dễ mất trộm ảnh và video trên iPhone
+24/03/2016  08:32 GMT+7
+Các chuyên gia bảo mật vừa phát hiện một lỗ hổng nghiêm trọng trong ứng dụng iMessage của Apple cho phép tin tặc có thể dễ dàng đánh cắp ảnh và video trên iPhone nạn nhân mà không phải vất vả đối phó theo kiểu FBI – Apple.
+
+Trong bối cảnh "cuộc chiến" pháp lý giữa FBI và Apple chưa có hồi kết thì đây sẽ là cái tát bất ngờ với Apple, vốn luôn tự hào với cơ chế mã hóa vô cùng an toàn của mình.
+
+ảnh, video, iPhone, iMessage, Apple, tin tặc 
+
+Lỗ hổng được các chuyên gia bảo mật, dẫn đầu bởi giáo sư khoa học máy tính Matthew D Green tại Đại học Johns Hopkins, Mỹ, phát hiện. Tạm thời, lỗ hổng này chỉ ảnh hưởng tới các phiên bản iOS 9 trở về trước. Tuy nhiên, các chuyên gia cảnh báo tin tặc có thể đang thay đổi cách thức để tấn công các phiên bản iOS 9 gần đây nhất.
+
+Lỗ hổng trên iMessage cho phép tin tặc lấy được ảnh, video và các tệp tin khác trên điện thoại của nạn nhân. Đáng chú ý là vẫn có khá nhiều mẫu iPhone chưa nâng cấp lên phiên bản iOS 9 mới nhất, đặc biệt là các dòng iPhone cũ, cho nên khả năng bị tin tặc "thăm viếng" là rất lớn.
+
+Người dùng iPhone được khuyến cáo nâng cấp lên phiên bản iOS 9.3 trong thời gian sớm nhất. Apple vừa phát hành phiên bản cập nhật hệ điều hành này. Tuy nhiên, có một vấn đề là không phải phần cứng iPhone nào, nhất là các đời iPhone cũ, cũng có thể chạy trơn tru phiên bản iOS mới này.
+
+Nguyễn Minh(theo Digitaltrends)

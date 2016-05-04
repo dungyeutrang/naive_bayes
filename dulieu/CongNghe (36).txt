@@ -1,0 +1,41 @@
+﻿Sự thực huyền thoại John McAfee có hack được iPhone?
+09/03/2016  15:12 GMT+7
+Trong những tuần qua, John McAfee đã liên tục xuất hiện trên mặt báo để bày tỏ quan điểm của mình về lệnh tòa án yêu cầu Apple phải tạo công cụ phần mềm cho phép FBI truy cập vào iPhone của 2 kẻ khủng bố tại San Bernardino. Đáng tiếc là trong một cuộc phỏng vấn mới đây với Daily Dot, "huyền thoại" bảo mật này lại hé lộ rằng biện pháp mà ông ta sẽ dùng để hack iPhone là không chính xác.
+
+>>Huyền thoại diệt virus John McAfee: "Để tôi hack cái iPhone đó cho" 
+
+huyền thoại John McAfee, hack được iPhone, bảo mật, FBI, Apple, hack iPhone
+
+McAfee, người đã sáng lập ra một trong những công ty bán phần mềm chống virus đầu tiên trên thế giới, đã từng tuyên bố với cả hãng thông tin CNN lẫn Russia Today và Business Insider rằng ông ta có thể vượt qua tính năng mã hóa phức tạp trên iPhone mà không cần tới sự trợ giúp của Apple. Khi nói dối trong những cuộc phỏng vấn đó, McAfee khẳng định với Daily Dot rằng ông ta "muốn nhận được rất nhiều sự chú ý từ công chúng".
+
+Không chỉ có vậy, McAfee còn khẳng định đã "khoác lác" để giúp che giấu về một biện pháp hack iPhone thực sự khả thi, thế nhưng biện pháp này không hề là bí mật và cũng không dễ thực hiện khi không có các công cụ đắt tiền và các kỹ năng phức tạp. Các chuyên gia bảo mật khác cũng khẳng định rằng biện pháp này sẽ là rất khó khăn và cũng tạo ra nguy cơ phá hủy các dữ liệu mà FBI cần có trên chiếc iPhone của kẻ khủng bố.
+
+Apple có thể viết phần mềm riêng biệt cho phép FBI thực hiện tấn công brute-force vào chiếc iPhone 5c do kẻ khủng bố Syed Rizwan Farook để lại sau vụ khủng bố do hắn cùng vợ thực hiện tại San Bernardino mà không cần lo tới tính năng tự động xóa dữ liệu sau 10 lần thử được cung cấp cho iOS. Nhưng để làm được điều này, Apple sẽ phải chứng thực một phiên bản iOS đặc biệt với phần mềm mà chỉ riêng công ty này nắm giữ.
+
+Trong phiên điều trần trước Quốc hội Mỹ vào ngày thứ ba vừa qua, giám đốc FBI James Comey đã khẳng định rằng cơ quan này đã yêu cầu sự giúp đỡ từ toàn bộ các cơ quan trực thuộc chính phủ Mỹ, nhưng cuối cùng không thể tìm ra giải pháp truy cập vào chiếc iPhone nói trên khi không có sự trợ giúp của Apple.
+
+huyền thoại John McAfee, hack được iPhone, bảo mật, FBI, Apple, hack iPhone
+Giám đốc FBI James Comey
+Lý do McAfee nói dối là để chống lại quan điểm của Comey.
+
+"Khi khẳng định như vậy, tôi biết rằng mình sẽ nhận được rất nhiều sự chú ý từ công chúng, và thực tế là như vậy. Đoạn video đó, trên kênh YouTube của tôi, có tới 700.000 lượt xem. Mục đích của tôi là cho công chúng Mỹ nhận thấy vấn đề rằng FBI đang cố gắng lừa dối họ. Tôi làm thế nào để thực hiện được điều đó, bằng cách nói sự thật? Chẳng có một ai sẽ thèm lắng nghe cả.
+
+Do đó, tôi nghĩ ra một điều gì đó thật giật gân. Nhưng, điều mà tôi không nói dối là khả năng bẻ khóa iPhone. Tôi có thể làm điều đó. Nó rất dễ dàng. Bạn cũng có thể làm được điều đó".
+
+McAfee đã từng một lần thừa nhận nói dối trong cuộc phỏng vấn với Inverse. Khi thực hiện phỏng vấn cùng Daily Dot, chuyên gia bảo mật này đã đưa ra đề nghị tiết lộ biện pháp mà ông sẽ sử dụng để hack một chiếc iPhone đã được mã hóa, chỉ trong trường hợp Daily Dot hứa sẽ "không công bố rộng rãi hay tiết lộ với bất cứ ai khác". Daily Dot đã từ chối đưa ra lời đảm bảo này để giữ cho toàn bộ cuộc hội thoại được ghi nhận.
+
+Sau đó, McAfee vẫn tiết lộ về phương pháp của mình, bao gồm việc gỡ bỏ vi xử lý của điện thoại và thu thập mã định danh độc nhất UID của iPhone, cho phép tấn công brute-force tìm mật khẩu ở tốc độ nhanh hơn. Trong khi vẫn yêu cầu Daily Dot không công bố biện pháp này, McAfee trước đó đã từng hé lộ ý tưởng của mình trong các cuộc phỏng vấn với các trang tin khác.
+
+huyền thoại John McAfee, hack được iPhone, bảo mật, FBI, Apple, hack iPhone
+
+Tuy vậy, các chuyên gia lại cho rằng giả thuyết của McAfee là không hợp lý. Ars Technica cho biết:
+
+"Cho đến nay, biện pháp khả thi nhất để mở khóa chiếc iPhone trong vụ San Bernardino mà không có sự trợ giúp của Apple là quét vi xử lý bằng acid và laser. Khi được thực hiện chính xác, điều này sẽ không giúp FBI biết được mã PIN mà chỉ biết được UID. Với UID, họ có thể kết hợp với nhiều mã PIN cho tới khi tìm được mã chính xác. Chi phí và độ phức tạp của biện pháp này là rất cao, và cũng rất rủi ro: chỉ một bước đi sai lầm là UID sẽ bị phá hủy hoàn toàn, khiến cho dữ liệu của điện thoại vĩnh viễn mất đi, không lấy lại được".
+
+Khi được hỏi vì sao lại trò chuyện công khai về biện pháp này, McAfee trả lời "Vì tôi cho là, vì anh tiếp tục hỏi, nên anh sẽ không công bố điều này". Khi tờ Daily Dot chỉ ra rằng tờ báo này chưa bao giờ đưa ra lời hứa đó, McAfee đã kết thúc cuộc trò chuyện.
+
+Trong một tin nhắn sau đó gửi tới Daily Dot, McAfee khẳng định rằng: "Lời nói dối là sự phóng đại của một điều đơn giản. Như bài báo Inverse đã giải thích, giải thích đầy đủ sự thật là không thể vào thời điểm đó. Nếu anh trách tôi vì điều đó, thì anh, và có thể là cả độc giả của các anh, là những người duy nhất trên thế giới này làm như vậy.
+
+Tôi xin lỗi vì cơn nóng giận của mình. Với tôi sẽ thật là kỳ lạ khi cứ xoáy sâu vào việc tóm lược một kỹ thuật hack trong bối cảnh những điều đang xảy ra – một quốc gia độc tài được bắt đầu khi công chúng bỏ qua sự thật về những gì FBI đang cố gắng thực hiện".
+
+Theo Vnreview

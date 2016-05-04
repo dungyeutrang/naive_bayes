@@ -1,0 +1,9 @@
+﻿ Dễ mất_trộm ảnh và video trên i Phone
+24/03/2016 08 : 32 GMT+ 7
+Các chuyên_gia bảo_mật vừa phát_hiện một lỗ_hổng nghiêm_trọng trong ứng_dụng i Message của Apple cho_phép tin_tặc có_thể dễ_dàng đánh_cắp ảnh và video trên i Phone nạn_nhân mà không phải vất_vả đối_phó theo kiểu FBI – Apple .
+Trong bối_cảnh " cuộc_chiến " pháp_lý giữa FBI và Apple chưa có hồi kết thì đây sẽ là cái tát bất_ngờ với Apple , vốn luôn tự_hào với cơ_chế mã_hóa vô_cùng an_toàn của mình .
+ảnh , video , iPhone , iMessage , Apple , tin_tặc
+Lỗ_hổng được các chuyên_gia bảo_mật , dẫn_đầu bởi giáo_sư khoa_học máy_tính Matthew D_Green tại Đại_học Johns_Hopkins , Mỹ , phát_hiện . Tạm_thời , lỗ_hổng này chỉ ảnh_hưởng tới các phiên_bản i OS 9 trở_về trước . Tuy_nhiên , các chuyên_gia cảnh_báo tin_tặc có_thể đang thay_đổi cách_thức để tấn_công các phiên_bản i OS 9 gần đây nhất .
+Lỗ_hổng trên i Message cho_phép tin_tặc lấy_được ảnh , video và các tệp_tin khác trên điện_thoại của nạn_nhân . Đáng chú_ý là vẫn có khá nhiều mẫu i Phone chưa nâng_cấp lên phiên_bản i OS 9 mới nhất , đặc_biệt là các dòng i Phone cũ , cho_nên khả_năng bị tin_tặc " thăm_viếng " là rất lớn .
+Người dùng i Phone được khuyến_cáo nâng_cấp lên phiên_bản i OS 9.3 trong thời_gian sớm nhất . Apple vừa phát_hành phiên_bản cập_nhật hệ_điều_hành này . Tuy_nhiên , có một vấn_đề là không phải phần_cứng i Phone nào , nhất_là các đời i Phone cũ , cũng có_thể chạy trơn_tru phiên_bản i OS mới này .
+Nguyễn_Minh ( theo Digitaltrends )

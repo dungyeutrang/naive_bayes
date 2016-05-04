@@ -1,0 +1,21 @@
+﻿Tin tặc phát hiện cách thâm nhập vào bất cứ tài khoản Facebook nào
+09/03/2016  08:02 GMT+7
+Mất 72 giờ, Anand Prakash, một tin tặc sống ở Ấn Độ đã có thể thâm nhập vào bất cứ tài khoản nào tin tặc này muốn, Tech Insider cho biết.
+
+tin tặc, tài khoản Facebook,
+
+Luckily Prakash, đã thông báo lỗ hổng nguy hiểm này trực tiếp cho Facebook để đổi lại được trả một khoản 15.000 USD. Trong một đăng tải hôm 7/3, Prakash đã chỉ ra cách “có thể tấn công tất cả các tài khoản Facebook như thế nào””.
+
+Khi bạn quên mật khẩu tài khoản Facebook của bạn, bạn có thể yêu cầu một một xác lập lại (reset) bằng cách nhập địa chỉ email hay số điện thoại đến cho trang web của mạng xã hội này. Một PIN đăng nhập tạm thời gồm 6 số sau đó sẽ được gửi tới địa chỉ email hoặc số điện thoại bạn đã nhập
+
+Prakash cố gắng đoán số PIN 6 số tạm thời trên trang web của Facebook nhưng đã bị chặn sau 10 – 12 lần cố gắng. Sau đó Prakash lại làm việc tương tự trên trang web beta của Facebook, trang web được các nhà phát triển sử dụng để kiểm thử các ứng dụng chạy trên mạng xã hội này.
+
+Bởi vì bạn vẫn có thể đăng nhập vào bất cứ tài khoản nào trên beta.facebook.com, Prakash đã cố đoán PIN 6 số và phát hiện ra là không có cài đặt số nỗ lực tối đa nào như trên trang web thông thường của Facebook. Điều này cho phép tin tặc này lặp đi lặp lại số PIN bằng cách nhanh chóng nhập bất cứ sự kết hợp số có thể nào trên máy tính của tin tặc này.
+
+“Tôi cố gắng sử dụng tài khoản của mình (bởi chính sách của Facebook bạn không nên thực hiện điều nguy hại nào đến bất cứ tài khoản của người sử dụng nào khác) và đã thành công bằng cách thiết lập một mật khẩu mới cho tài khoản của tôi. Sau đó, tôi có thể sử dụng mật khẩu tương tự để đăng nhập vào các tài khoản”.
+
+Prakash lập tức thông báo các phát hiện của mình tới Facebook và dành được số tiền 15.000 USD cho việc khám phá lỗ hồng này. Đây là cách phổ biến của các công ty công nghệ lớn chi trả cho những tin tắc phát hiện ra những lổ hổng quan trọng và thông báo cho họ.
+
+ “Một trong những lợi ích giá trị của chương trình giải thưởng cho phát hiện lỗ hổng là khả năng tìm kiếm các vấn đề thậm chí trước khi họ tiễn hành thực hiện hàng loạt”, đại diện của Facebook đã cho Tech Insider biết “Họ vui mừng và thưởng cho Anand về những thông báo kịp thời này”.
+
+Theo ICTpress

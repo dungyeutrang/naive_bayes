@@ -1,0 +1,9 @@
+﻿ ( Techz.vn ) Một kỷ_lục mới về tốc_độ truyền_dẫn dữ_liệu thông_qua cáp_quang với con_số ghi_nhận lên tới 57Gbps .
+BÀI_VIẾT_LIÊN_QUAN
+Không_chỉ có cá_mập , loài khỉ cũng rất ' thích_thú ' với cáp_quang
+Tốc_độ truyền_tải bằng cáp_quang đã lên tới 140 Gigabyte/giây
+Bảo_trì đột_xuất tuyến cáp_quang AAG , truy_cập internet khó_khăn
+Việc truyền_tải dữ_liệu thông_qua sợi quang đang liên_tiếp đạt được những lỷ lục mới . Các nhà_nghiên_cứu thuộc Đại_học Khoa_học Illinois cho_biết họ đã đạt tốc_độ truyền dâĩ lên tới 57Gbps , tương_đương 7,125 GB / s . Quan_trọng hơn , tốc_độ đạt được ngay trong nhiệt_độ phòng và không cần phải làm mát các thiết_bị_đầu_cuối trước khi thực_hiện . Thậm_chí , khi nhiệt_độ môi_trường tăng lên 185 độ F ( tương_đương 85 độ C ) , hệ_thống này vẫn đảm_bảo một tốc_độ lên tới 50Gbps , một con_số đáng nể .
+Thêm một kỷ_lục mới về tốc_độ truyền_tải dữ_liệu qua cáp_quang
+Thành_công của nhóm nghiên_cứu thuộc Đại_học Illinois sẽ mang tới những giải_pháp mới cho các trung_tâm dữ_liệu , trung_tâm hàng_không … cần truyền_tải dữ_liệu ngẫu_nhiên trong một thời_gian dài . Nếu được triển_khai trên thực_tế , việc quay phát nội_dung 4K trực_tuyến sẽ trở_nên dễ_dàng , ngay cả những nơi có điều_kiện khắc_nghiệt nhất .
+Hãy thử tưởng_tượng , nếu sở_hữu đường truyền trên , bạn sẽ tải một bộ film Bluray chỉ trong vỏn_vẹn có vài giây mà thôi , quá ấn_tượng !

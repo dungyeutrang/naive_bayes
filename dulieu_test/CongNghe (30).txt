@@ -1,0 +1,10 @@
+﻿ Tìm ra cách_thức tăng đáng_kể tốc_độ lướt web
+10/03/2016 09 : 06 GMT+ 7
+Các nhà_nghiên_cứu tại Việc công_nghệ MIT và Đại_học Harvard tuyên_bố đã tìm ra cách_thức mới giúp tăng đáng_kể tốc_độ lướt web dù sử_dụng bất_cứ trình_duyệt nào .
+tốc_độ lướt web , trình_duyệt
+Đó chính là Polaris , hệ_thống có_thể giúp giảm thời_gian tải trang_web tới 34% . MIT và Harvard đã thử_nghiệm trên 200 trang_web khác_nhau để rút ra kết_luận này .
+Polaris có_thể đạt được tốc_độ tải web cực nhanh là nhờ giảm thiếu số_lượng các đối_tượng ( object ) mà thiết_bị tải xuống khi truy_cập trang_web . Thông_thường , khi mở một trang_web như Google.com , sẽ có một loạt trao_đổi giữa thiết_bị và máy_chủ trang_web . " Các đối_tượng " ở đây như tệp_tin HTML , ảnh , mã JavaScript , video và nhiều thứ khác sẽ tải xuống riêng_rẽ , được trình_duyệt biên_dịch rồi sau đó sắp_xếp tạo thành một trang_web có_thể đọc được .
+Tuy_nhiên , mỗi tệp_tin trên có_khi lại cần tải thêm một_vài tệp_tin liên_quan nào_đó để hiển_thị chính_xác . Thế nên mới có chuyện các trình_duyệt cần thời_gian để tải tất_cả chúng xuống khiến cho tốc_độ lướt web giảm rõ_rệt .
+Polaris giải_quyết tình_trạng liên_kết này bằng cách tạo ra một biểu_đồ giúp xử_lý tất_cả đối_tượng nhanh hơn và hiệu_quả hơn . " Với trình_duyệt Web , việc tải toàn_bộ đối_tượng của trang giống như kiểu đi thăm tất_cả các thành_phố . Polaris sẽ đưa cho bạn một danh_sách cách thành_phố trước khi bắt_đầu chuyến đi " , giáo_sư James_Mickens của Harvard hình_tượng hóa cách_thức hoạt_động hiệu_quả của công_cụ Polaris .
+Tuy_nhiên , Polaris cũng có những giới_hạn nhất_định . Nó vẫn chưa_thể tăng_tốc với những trang_web phức_tạp có quá nhiều các thành_phần phụ_thuộc cần tải về . Tuy_nhiên , với những trang_web tải bằng thiết_bị di_động thì Polaris sẽ là giải_pháp rất tốt .
+Nguyễn_Minh ( theo Digitaltrends )

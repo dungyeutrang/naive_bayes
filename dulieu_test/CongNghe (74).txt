@@ -1,0 +1,10 @@
+﻿ Apple_Watch tương_lai có_thể cứu_mạng chủ_nhân
+12/03/2016 16 : 52 GMT+ 7
+Một mẫu bằng_sáng_chế gần đây của Apple cho_phép những chiếc đồng_hồ thông_minh Apple_Watch tương_lai có_thể cứu_mạng người đeo trong trường_hợp khẩn_cấp .
+Apple_Watch , cứu_mạng chủ_nhân , Apple_Watch tương_lai , bằng_sáng_chế Apple
+Với cái tên " Phát_hiện và Cảnh_báo Sự_kiện nguy_hiểm " , sáng_chế này cho_phép thiết_bị điện_tử có_thể phát_hiện nguy_cơ đe_dọa tính_mạng bằng cách theo_dõi dữ_liệu người dùng và môi_trường xung_quanh từ một hoặc nhiều nguồn cảm_biến khác_nhau , rồi sau đó gửi đi cảnh_báo nếu cần_thiết .
+Sự_kiện nguy_hiểm có_thể là bất_cứ tình_huống khẩn_cấp nào cần tới trợ_giúp y_tế , chẳng_hạn tai_nạn xe_hơi , tai_nạn xe_đạp , cấp_cứu y_tế , trẻ nhỏ rời khỏi phạm_vi quan_sát , bị cướp hoặc nhiều ngữ_cảnh khác .
+Việc phát_hiện này có_thể dựa trên cảm_biến đồng_hồ hoặc từ các thiết_bị khác . Chẳng_hạn , có_thể phát_hiện va_chạm xe_hơi nếu cảm_biến gia_tốc nhận thấy sự thay_đổi đột_ngột về tốc_độ . Hoặc phát_hiện cơn đau tim khi theo_dõi thấy nhịp tim không còn đập .
+Sau khi phát_hiện những tình_huống nguy_hiểm trên , đồng_hồ sẽ gửi thông_báo cho người_thân hoặc tổ_chức chăm_sóc y_tế nằm trong danh_sách lựa_chọn trước của người dùng . Đó có_thể là cứu_thương , cứu_hỏa , cảnh_sát , bệnh_viện , bạn_bè hoặc gia_đình người_thân . Người dùng có_thể thiết_lập cơ_chế liên_lạc với số khẩn_cấp dựa trên loại_hình nguy_hiểm , thậm_chí còn thiết_lập được danh_sách ưu_tiên lần_lượt .
+Hiện chưa rõ kế_hoạch sử_dụng sáng_chế trên của Apple ra_sao . Tuy_nhiên , nhiều nguồn tin cho thấy hãng này rất coi_trọng các dữ_liệu y_khoa và chúng sẽ đóng vai_trò chính trên những chiếc smartwatch tương_lai . Chính vì_vậy , khả_năng lớn là Apple_Watch sẽ sớm được trang_bị tính_năng này .
+Nguyễn_Minh ( theo Digitaltrends )

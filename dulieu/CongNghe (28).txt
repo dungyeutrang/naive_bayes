@@ -1,0 +1,33 @@
+﻿Cảnh báo biến tướng của virus tống tiền tại VN
+10/03/2016  12:03 GMT+7
+Chiều 9/3, VNCERT đã phát đi cảnh báo về hình thức lây nhiễm mới của ransomware, thuật ngữ chỉ mã độc mã hóa tài liệu rồi tống tiền người dùng tại Việt Nam.
+
+Trong công văn gửi tới các đơn vị chuyên trách về CNTT của các bộ, ngành; các Sở TT&TT; các nhà cung cấp dịch vụ Internet (ISP) cùng các đơn vị thuộc Bộ TT&TT, Trung tâm Ứng cứu khẩn cấp Máy tính VNCERT đã cảnh báo về hình thức lây nhiễm mới của ransomware trong tuần đầu tháng 3/2016.
+
+ransomware, virus tống tiền, mã độc, bảo mật, VNCERT, BKAV
+
+Trong khoảng thời gian nói trên, VNCERT phát hiện tin tặc đã nhằm vào các cơ quan tổ chức có sử dụng các hòm thư điện tử nội bộ. Chúng sẽ giả mạo một địa chỉ điện tử có đuôi là @tencongty.com.vn để gửi thư điện tử có kèm mã độc đến các người dùng trong công ty đó.
+
+Để qua mặt các hệ thống dò quét mã độc, các mã độc thường được nén lại dưới định dạng “.zip” hoặc “.zar”. Qua phân tích của chuyên gia VNCERT với một sự cố cho thấy, tệp tin chứa mã độc “.zip” chứa bên trong các tệp tin thực thi như “.js” (một tệp tin Javascript) hoặc tệp tin văn bản như “.doc”, “.xls”….
+
+Khi người dùng mở tệp tin này, mã độc sẽ được kích hoạt, tự động tải tập tin mã độc mã hóa tài liệu và tự thực thi trên máy. Với trường hợp mã hóa tài liệu thì mã độc sẽ tiến hành mã hóa nội dung toàn bộ các dữ liệu trên máy nạn nhân với thuật toán mã hóa mạnh để không thể giải mã được với mục đích “bắt cóc” dữ liệu trên máy để tống tiền nạn nhân. Theo phân tích của Trung tâm thì việc tin tặc giả mạo chính các địa chỉ thư điện tử của đơn vị sẽ làm cho người dùng khó phát hiện hơn và tỷ lệ thành công của mã độc sẽ cao hơn.
+
+Ransomware, tức phần mềm tống tiền, là một nguy cơ bảo mật đang nổi lên mạnh mẽ trên thế giới. Tại Việt Nam, ngay từ tháng 1/2015, BKAV cũng đã phát hiện hơn 1.300 máy tính nhiễm virus tống tiền CTB Locker, tuy nhiên đa số người dùng vẫn còn rất xa lạ với nguy cơ này, cũng như chưa có ý thức đề phòng.
+
+"Ransomware có thể mang lại "lợi nhuận" trực tiếp khổng lồ cho hacker nên đây đang là một trong những xu hướng chính của mã độc trong năm 2016. Thực tế là từ đầu năm đến nay, chúng ta đã chứng kiến các mã độc tống tiền liên tiếp xuất hiện với các cách thức lây nhiễm khác nhau", BKAV phân tích. 
+
+Chính vì thế, việc cảnh báo các cơ quan, tổ chức trong nước để họ siết chặt các biện pháp bảo mật, cũng như tăng cường tuyên truyền đến cho các nhân viên, người dùng máy tính về nguy cơ là rất cần thiết.
+
+Trước hết, người dùng cần lưu ý phương thức lây lan chủ yếu của ransomware hiện nay là gửi tập tin đính kèm email, hoặc chèn đường link dẫn đến mã độc bên trong email, yêu cầu người dùng tải về, cài đặt. Ngoài ra, máy tính cũng có thể nhiễm mã độc thông qua USB, thiết bị lưu trữ, cài đặt phần mềm không có nguồn gốc rõ ràng.
+
+Dấu hiệu nhận biết máy tính đã bị nhiễm ransomware là các tài liệu, văn bản sẽ bị thay đổi nội dung và đổi tên phần mở rộng, phổ biến là các tệp tin có định dạng: .doc, .docx, .pdf, .xls, .xlsx, .jpg, .txt, .ppt, .pptx,.. một số loại còn khóa máy tính không cho sử dụng và đòi tiền chuộc.
+
+Theo VNCERT, để phòng ngừa, hạn chế tối đa khả năng bị nhiễm mã độc mã hóa dữ liệu, các đơn vị cần thực hiện các biện pháp như phân quyền hợp lý cho các loại tài khoản người dùng, bảo vệ các tệp tin không cho phép xóa, sửa nội dung các tệp tin quan trọng; cài đặt và thường xuyên cập nhật cho hệ điều hành, phần mềm chống mã độc như Kaspersky, Symantec, BKAV, CMC…; Chú ý cảnh giác với các tệp tin đính kèm, các đường liên kết ẩn được gửi đến thư điện tử người dùng kể cả người gửi từ trong nội bộ; thực hiện các biện pháp kỹ thuật nhằm kiểm tra xác thực người dùng trên máy chủ gửi email của đơn vị, tránh bị giả mạo người gửi từ nội bộ; đồng thời tắt các chế độ tự động mở, chạy tập tin đính kèm theo thư điện tử.
+
+Bên cạnh đó, phòng trường hợp xấu nhất là dữ liệu bị tin tặc "bắt cóc", các cơ quan, tổ chức nên tiến hành sao lưu dữ liệu định kỳ, nhất là với những dữ liệu quan trọng, tránh tình trạng máy tính là nguồn lưu trữ duy nhất.
+
+Đồng thời, các cơ quan, tổ chức, người dùng cần phản ứng thật nhanh khi phát hiện ra sự cố, bởi khi mã độc lây nhiễm vào máy tính, nó sẽ cần một khoảng thời gian nhất định để tiến hành quét và mã hóa các tập tin. Chính vì thế, ngay khi phát hiện bị lây nhiễm, các nạn nhân cần nhanh chóng tắt máy tính bằng cách ngắt nguồn điện; không được khởi động lại máy tính theo cách thông thường mà phải khởi động từ hệ điều hành sạch khác (khuyến nghị hệ điều hành Linux) như từ ổ đĩa CD, USB… sau đó thực hiện kiểm tra các tập tin dữ liệu và sao lưu các dữ liệu chưa bị mã hóa, VNCERT khuyến nghị.
+
+Ngoài ra, để giúp các cơ quan chức năng theo dõi, phân tích và phản ứng nhanh chóng với các loại mã độc mới, VNCERT đề nghị các đơn vị cần nhanh chóng thông báo về Trung tâm này.
+
+Tương tự, BKAV cũng khuyến nghị người dùng cần cẩn trọng khi mở các file kèm, kể cả khi nhận từ các email có tên là quen biết, nên dùng chế độ mở an toàn Safe Run khi mở các file này, đồng thời cài thường trực phần mềm diệt virus trên máy tính của mình để được bảo vệ.

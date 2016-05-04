@@ -1,0 +1,21 @@
+﻿Tìm ra cách loại bỏ HIV khỏi tế bào nhiễm virus
+24/03/2016  07:00 GMT+7
+Nhờ một kỹ thuật chỉnh sửa hệ gen tân tiến, các nhà khoa học đã tìm được cách "hất cẳng" HIV khỏi những tế bào bị nhiễm virus.
+
+HIV, virus, công nghệ gen
+
+Chỉ trong vòng vài năm trở lại đây, thế giới đã được chứng kiến một bước tiến lớn trong lĩnh vực điều chỉnh hệ gen. Với sự ra đời của kỹ thuật CRISPR/Cas9, chưa bao giờ các nhà khoa học lại có thể nhận diện, điều chỉnh hay loại bỏ các mảnh ADN nhất định một cách đơn giản và chính xác đến như vậy. Điều này cho phép họ tấn công một số đột biến, dấy lên hy vọng về việc chữa trị thành công các căn bệnh di truyền nhất định.
+
+Hiện, các nhà nghiên cứu đã sử dụng nó để tấn công HIV và đã tìm được cách loại bỏ bộ gen của virus khỏi các tế bào bị nhiễm virus.
+
+Theo các chuyên gia, khi virus HIV lây nhiễm vào cơ thể người nào đó, ARN của nó biến đổi thành ADN HIV-1, rồi xâm nhập vào một tế bào miễn dịch gọi là CD4+ T. Điều đó đồng nghĩa, các tế bào nhiễm virus sau đó sao chép bộ gen của HIV, sản sinh ra nhiều virus hơn và do đó có thể tiếp tục tấn công nhiều tế bào D4+ T hơn. Quá trình này dẫn tới hậu quả làm suy yếu hệ thống miễn dịch và cuối cùng là hội chứng suy giảm miễn dịch mắc phải (AIDS), khiến người nhiễm virus không còn sức kháng cự trước những căn bệnh thông thường có thể chữa khỏi khác, chẳng hạn như viêm phổi.
+
+Các thuốc kháng virus hiện thời nhằm ngăn HIV tiêm nhiễm độc vào các tế bào trước tiên, nhưng một khi virus đã đưa được ADN của nó vào bên trong những tế bào T, chúng ta hầu như chẳng làm được gì nhiều và các tế bào nhiễm HIV sau đó sẽ đóng vai trò như nguồn chứa virus.
+
+Các thuốc kháng virus rất hiệu quả trong việc kiểm soát lây nhiễm. Tuy nhiên, các bệnh nhân đang áp dụng liệu pháp kháng virus, nếu ngưng dùng thuốc sẽ phải hứng chịu tình trạng HIV tái trỗi dậy rất nhanh", nha fnghieen cứu Kamel Khalili giải thích.
+
+Vì vậy, nhóm nghiên cứu đến từ Hệ thống y tế của Đại học Temple (Mỹ) muốn thử xem liệu họ có thể tận dụng sự chính xác của kỹ thuật CRISPR để xác định vị trí cũng như loại bỏ các mảnh ADN của HIV trong những tế bào T bị nhiễm virus hay không. Kết quả cho thấy, họ thực sự có thể loại bỏ hoàn toàn bộ gen của HIV mà không gây bất kỳ phản ứng phụ nào khác lên các tế bào chủ. Những tế bào T này tiếp tục phát triển và phân chia bình thường. Đặc biệt, chúng sau đó còn miễn nhiễm trước các cuộc tấn công mới của virus HIV.
+
+Nhóm nghiên cứu đã tiến hành các thí nghiệm nhờ sử dụng các tế bào CD4+ T trích lấy từ bệnh nhân nhiễm HIV và sau đó nuôi dưỡng nó trong phòng thí nghiệm. Điều đó làm dấy lên hy vọng rằng, kỹ thuật này có thể được cải thiện và phát triển tới mức độ không chỉ đơn giản ngăn virus truyền nhiễm sang các tế bào mới, mà còn chữa khỏi nó hoàn toàn.
+
+Tuấn Anh (theo IFLScience)

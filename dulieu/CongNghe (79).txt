@@ -1,0 +1,23 @@
+﻿Phát hiện bộ gen người có chứa ADN của virus cổ đại
+28/03/2016  05:00 GMT+7
+Ít nhất 8% ADN của bạn thuộc về chủng tộc lạ và cấu thành từ các mảnh có nguồn gốc từ virus, không phải của người. Trong thực tế, các mảnh virus thường ẩn nấp bên trong hệ gen của bất kỳ thứ gì trên Trái đất có bộ hàm và cột sống, một điểm gợi nhắc đáng chú ý về việc chúng đã định hình quá trình tiến hóa suốt hàng trăm triệu năm qua như thế nào.
+
+ADN, bộ gen, HIV 
+
+Một nghiên cứu mới đăng tải trên tạp chí Proceedings of the National Academy of Sciences hé lộ, chúng ta thậm chí còn "ít con người" hơn suy nghĩ lâu nay. Các nhà khoa học mới đây đã phát hiện thêm 19 mảnh ADN của virus cổ bên trong bộ gen của chúng ta. Có lẽ, điều đáng kinh ngạc nhất là, toàn bộ "công thức" di truyền đầy đủ của một virus được tìm thấy ở bên trong 2% số người được kiểm tra.
+
+Mọi loại retrovirus có mã di truyền của chúng ở dạng ARN, thường được coi là tiền thân nguyên thủy của ADN. Những virus này truyền nhiễm cho các tế bào vật chủ bằng cách tiêm một bản sao ARN của chúng vào bộ gen của vật chủ (có thể bao gồm cả con người). Virus suy giảm miễn dịch ở người (HIV) là ví dụ cho retrovirus hiện đại, đang lây truyền cho người theo cách này.
+
+Các retrovirus cổ đã truyền nhiễm cho tổ tiên của chúng ta suốt hàng trăm ngàn năm. Các mảnh ADN do virus sản sinh kiểu này vẫn còn bên trong bộ gen của tổ tiên chúng ta, rồi được sao chép và truyền lại từ thế hệ này sang thế hệ khác. Những mảnh này còn được biết đến như các retrovirus nội sinh ở người hay HERV.
+
+Theo các ước tính trước đây, ADN của chính chúng ta chứa ít nhất 8% là HERV. Trong nghiên cứu mới, các nhà khoa học đã tìm kiếm thêm dấu hiệu về các HERV mới bên trong con người. Họ đã xem xét cẩn thận bộ gen của 2.500 người từ khắp nơi trên thế giới và so sánh chúng với một mẫu tham chiếu, một chuỗi di truyền số hóa đặc trưng do các nhà khoa học tổng hợp.
+
+Nhóm nghiên cứu đã khám phá ra 19 HERV mới, ngoài 17 HERV đã được các nghiên cứu khác nhận diện trước đây. Một trong số các HERV mới này không chỉ là một mảnh của một bộ gen virus, mà là toàn bộ bộ gen của virus. Điều này khiến nó trở thành một "provirus" và là provirus virus thứ hai được phát hiện bên trong cơ thể người. Mặc dù vẫn chưa được chứng thực nhưng provirus được cho là có khả năng tái tạo và hành xử giống như một virus đang hoạt động, không gống các mảnh HERV.
+
+"Provirus này trông như có thể tạo ra một virus truyền nhiễm. Nếu đúng, điều đó sẽ vô cùng thú vị vì nó cho phép chúng ta nghiên cứu về một dịch virus xảy ra cách đây khá lâu", nhà nghiên cứu John Coffin, chuyên gia vi trùng đến từ Trường Y thuộc Đại học Tufts (Mỹ), giải thích.
+
+Cơ thể của chúng ta đã đón nhận một số HERV để phục vụ các mục đích hữu ích, chẳng hạn như một HERV hỗ trợ việc mang thai. HERV đặc biệt này giúp xây dựng một lớp màng bảo vệ tế bào quanh bào thai, nhằm ngăn các độc tố từ máu của người mẹ xâm nhập vào thai nhi.
+
+Do các HERV thường là một phần tạo nên các đặc điểm sinh vật học của con người, nên việc truy tìm chúng là thiết yếu đối với các nghiên cứu y học.
+
+Tuấn Anh(Theo IFL Science)

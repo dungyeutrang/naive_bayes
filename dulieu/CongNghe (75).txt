@@ -1,0 +1,34 @@
+﻿Vì sao phải "đo lường" khán giả truyền hình?
+28/03/2016  13:57 GMT+7
+Kết quả của hệ thống rating sẽ giúp cơ quan quản lý và các đài truyền hình đánh giá được hiệu quả của từng chương trình, giám sát được thời lượng chương trình và quảng cáo.
+
+Dự án đo lường, định lượng khán giả truyền hình - Vietnam TAM (Vietnam Television Audience Measurement) vừa chính thức ra mắt hôm 20/3 vừa qua, được khẳng định là một dự án chủ chốt, trọng tâm của Cục Phát thanh truyền hình & Thông tin điện tử (Bộ TT&TT) trong năm 2016. Tuy vậy, khá nhiều khán giả vẫn thắc mắc, vì sao phải "đo lường" người xem và bằng cách nào có thể định lượng được một yếu tố vô hình như vậy?
+
+Đánh giá hiệu quả chương trình
+
+Liên quan đến vấn đề này, ông Phạm Hoàng Hải, Giám đốc Trung tâm đo kiểm và dịch vụ PTTH, TTĐT (Cục PTTH & TTĐT), đơn vị trực tiếp xây dựng hệ thống, cho biết Việt Nam hiện có trên 100 kênh truyền hình với hàng ngàn chương trình truyền hình.
+
+truyền hình, Cục PTTH & TTĐT, Bộ TT&TT
+Hệ thống đo lường giúp CQ quản lý đánh giá được độ lan tỏa, hiệu quả của các chương trình.
+Chính vì số lượng chương trình lớn và phong phú như vậy, cơ quan quản lý nhà nước có nhu cầu xây dựng một hệ thống đạt tiêu chuẩn quốc tế, phục vụ việc nghiên cứu, đánh giá chất lượng các kênh chương trình trên truyền hình, đánh giá nội dung thông tin. Kết quả của hệ thống rating sẽ giúp cho cơ quan quản lý nắm được độ lan toả của nội dung truyền hình, cũng như "định lượng" được hiệu quả của từng chương trình truyền hình. Đồng thời, họ cũng giám sát được thời lượng các chương trình truyền hình, các chương trình quảng cáo, từ đó phục vụ công tác kiểm tra, thanh tra chuyên ngành một cách hiệu quả.
+
+Bản thân lãnh đạo các đài Truyền hình cũng nắm được số liệu về khán giả xem từng chương trình, từng khu vực cụ thể, để từ đó có kế hoạch điều chỉnh cho phù hợp với nhu cầu của người xem. Công tác tuyên truyền chủ trương, chính sách của Đảng, Nhà nước đến đúng đối tượng xem truyền hình cũng được thực hiện tốt hơn.
+
+Sau gần 1 năm nghiên cứu và vận hành thử nghiệm tại hai thị trường Hà Nội và TP.Hồ Chí Minh, hệ thống VIETNAM TAM  sử dụng công nghệ do Nielsen TAM cung cấp đã đưa vào hoạt động với một quy trình chặt chẽ, tiêu chuẩn quốc tế. A.C Nielsen là công ty nghiên cứu thị trường có uy tín và nổi tiếng của Mỹ, hiện đang hoạt động trên 100 quốc gia trong đó có Việt Nam. Hãng này bắt đầu đo lường khán giả truyền hình từ năm 1950 và tại thời điểm này, hơn 36 quốc gia trên thế giới đang sử dụng công nghệ đo lường khán giả truyền hình của Nielsen.
+
+Theo ông Hải, đối với hệ thống đo lường định lượng khán giả Truyền hình, việc thiết kế Panel mẫu để thu thập dữ liệu của người xem truyền hình tại các hộ gia đình là quan trọng nhất. Đối với VIETNAM –TAM, việc thiết kế và xây dựng các Panel mẫu đại diện cho hai khu vực nghiên cứuđược triển khai khảo sát trên 6000 hộ gia đình nội thành Hà Nội và TP.Hồ Chí Minh. Các thông tin về dân số, hạ tầng, thiết bị truyền hình, thói quen xem truyền hình của hộ gia đình được dự án sử dụng để thiết kế Panel mẫu đại diện cho từng khu vực nghiên cứu. Bước này được gọi là Khảo sát cơ bản, được VIETNAM-TAM thực hiện thường niên và tuân thủ các yêu cầu về phương pháp điều tra chọn mẫu cũng như kiểm soát chất lượng việc thu thập thông tin để các kết quả đạt được có độ tin cậy cao nhất và phản ánh đúng thông tin trung thực nhất của tổng thể nghiên cứu.
+
+Dựa trên các kết quả phân tích từ khảo sát cơ bản, Panel mẫu được xây dựng và thiết kế dựa trên một số tiêu chí kiểm soát như: Quy mô và thành phần kinh tế hộ gia đình, số lượng tivi, cách thu sóng và mức độ xem truyền hình của hộ gia đình, cơ cấu dân số của từng khu vực quận/huyện. Nhật ký xem truyền hình của các hộ gia đình sẽ được ghi lại 24/24h, sau đó được gửi về hệ thống Data Center trong khoảng thời gian từ 2h-6h sáng hàng ngày, thông qua sóng GPRS.
+
+Bảo vệ thương hiệu kênh tốt
+
+"Dữ liệu hoàn toàn được xử lý trong quy trình khép kín, không có sự can thiệp từ bất kỳ vị trí nào trong toàn bộ khâu vận hành bởi con người để đảm bảo tính minh bạch. Toàn bộ dữ liệu hàng ngày được tổng hợp bởi một công cụ báo cáo và phân tích. Dựa trên đó, người ta có thể phân tích hành vi người xem; Phân tích quảng cáo; Dự báo và Hỗ trợ lên kế hoạch và tối ưu hóa kế hoạch quảng cáo", ông Hải phân tích.
+
+Các báo cáo chỉ số Rating sẽ được Vietnam-TAM chuyển cho các kênh/chương trình vào lúc 12h hàng ngày. Hiện hệ thống đang cung cấp dữ liệu cho 100 kênh truyền hình có chỉ số chi tiết từng phút; 50 kênh có chỉ số chi tiết đến các chương trình và 30 kênh có chỉ số chi tiết cho từng quảng cáo. "Phản hồi của các Đài đều đang rất tích cực", vị đại diện Cục PTTH & TTĐT nói thêm.
+
+Theo dự kiến, hệ thống sẽ được triển khai chính thức trong quý II/2016.
+
+Trước đó, tại Hội nghị Thi đua Phát thanh, Truyền hìnhđược tổ chức tại Vũng Tàu hôm 21/3, Ủy viên TƯ Đảng, Thứ trưởng Bộ TT&TT Trương Minh Tuấn cũng nhấn mạnh: VIETNAM - TAM sử dụng công nghệ tiên tiến, phương pháp nghiên cứu khoa học, quy trình xử lý dữ liệu minh bạch. Hệ thống này sẽ giúp thị trường có thêm có thêm công cụ đo lường và đánh giá, bảo vệ lợi ích và uy tín, thương hiệu của các kênh truyền hình có chất lượng tốt.
+
+Thứ trưởng cũng đề nghị Cục PTTH & TTĐT tiếp tục triển khai dự án "quyết liệt nhưng thận trọng", lắng nghe ý kiến đóng góp của các Đài PTTH. Đồng thời, Bộ TT&TT cũng đề nghị các Đài PTTH ủng hộ công nghệ này, sử dụng nguồn dữ liệu hiệu quả để nâng cao chất lượng kênh truyền hình, đồng thời đề xuất những ý kiến đóng góp có giá trị cho cơ quan quản lý nhà nước để hệ thống thực sự phát huy được mục tiêu đề ra ban đầu.
+Trọng Cầm

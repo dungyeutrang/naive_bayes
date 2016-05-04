@@ -1,0 +1,38 @@
+﻿(Techz.vn) Vào năm 1994, hãng đồng hồ Timex hợp tác với Microsoft để thiết kế chiếc đồng hồ Datalink 150. Đó chính là chiếc đồng hồ thông minh (smartwatch) đầu tiên trên thế giới, đi trước chiếc Apple Watch hơn 1 thập kỷ với những phát hiện mang tính lịch sử.
+
+BÀI VIẾT LIÊN QUAN
+Smartwatch đầu tiên của HTC chờ ngày lên kệ
+HTC sẽ trình làng smartwatch "đỉnh" nhất thế giới?
+Microsoft phát hành bản cập nhật mới cho Windows 10 phiên bản 1511
+Microsoft vừa mới chính thức mua lại ứng dụng bàn phím SwiftKey
+Hàng loạt đồng hồ thông minh từ nhiều hãng công nghệ luôn nhận được nhiều quan tâm từ phía người tiêu dùng yêu công nghệ, Nhưng khái niệm đồng hồ thông minh có thật sự mới? Và bạn có biết chiếc đồng hồ thông minh đã xuất hiện từ rất lâu? Chác chắn không nhiều người biết!
+
+Được hoàn thành với những thiết kế khá hiện đại, màn hình hiển thị LCD và phần mềm đồng bộ hóa với máy tính, chiếc đồng hồ thông minh đầu tiên của Microsoft hợp tác với nhà sản xuất đồng hồ hàng đầu của Mỹ, một câu chuyện của smartwatch Datalink 150 năm 1994 đã mang lại rất nhiều bất ngờ.
+
+Lich sử ấn tượng về chiếc smartwatch đầu tiên thế giới của Microsoft và Timex
+
+150 là model cuối cùng của dòng Datalink được Timex đồng Microsoft giới thiệu như là một thiết bị đeo tay PDAs (Pesonal digital assistant: hỗ trợ kĩ thuật số dành cho cá nhân). Datalink 150 được phát triển khả năng hỗ trợ cá nhân thông minh bằng những tính năng hiện đại như chống nước, dễ dàng lập trình, và nhỏ gọn tiện lợi cho việc đeo tay. Con số 150 ở đây cho thấy thiết bị có khả năng lưu trữ lên đến 150 số điện thoại trong bộ nhớ, đi kèm với những các cuộc hẹn, ngày kỉ niệm, những ứng dụng mới dành cho thiết bị đeo tay.
+
+Một vài ứng dụng mà người tiêu dùng có thể tải lúc này trên đồng hồ thông minh MS 94 bao gồm Đồng hồ chronograph (stop watch) có thể đo thời gian theo nhiều cách khách nhau, một bảng ghi chú có khẳ năng lưu trữ 40 từ và một bản sao Space Invaders. Qua nhiều năm, các nhà phát triển cho ra mắt thêm nhiều chắc năng như các trò chơi video, bảo vệ màn hình, bảng tính điểm golf, điều chỉnh công cụ (như độ tương phản màn hình, điều chỉnh tốc độ di chuyển,..) máy tính đơn giản, và một số công cụ khác - được lập trình bằng những ngôn ngữ còn đơn giản.
+
+Nhưng đó vẫn chưa là phần thú vị cho đến khi Datalink 150, chiếc đồng hồ đầu tiên có thể truyền tải dữ liệu không dây với máy tính Window, cảm biến quang học trên mặt đồng hồ được sử dụng để truyền dữ liệu thông qua ánh sáng từ màn hình CRT của máy tính, cho phép người dùng có thể gởi các cuộc hẹn và thời gian báo thức từ máy tính lên đồng hồ.
+
+Lich sử ấn tượng về chiếc smartwatch đầu tiên thế giới của Microsoft và Timex
+
+Microsoft và Timex sở hữu công nghệ kết nối không dây với máy tính trước cả sự ra đời của USB.
+
+Về cơ bản, thiết bị hoạt động dựa trên những sóng ngang được phát ra từ màn hình máy tính nhờ phần mềm đồng bộ hóa, được cảm biến quang quét và gửi trực tiếp đến bộ nhớ EEPROM của đồng hồ. Công nghệ này đã được phát triển với tốc độ truyền tải nhanh đến bất ngờ so với công nghệ lúc bấy giờ, và so với những chiếc đồng hồ khác, Model Datalink 70 mất khoảng 20 giây để tải về 70 số điện thoại vào bộ nhớ của nó.
+
+Lich sử ấn tượng về chiếc smartwatch đầu tiên thế giới của Microsoft và Timex
+
+Phần mềm máy tính có khả năng đồng bộ hóa với thiết bị đeo. Ảnh: Internet
+
+Trên dây đeo nhựa của Timex Datalink 50 mô hình 70.301 có một bản in với số nhị phân mà thực sự là mã ASCII. Các con số trên một nửa của dây đeo đại diện cho văn bản 'Listen To The Light', trong khi những người ở nửa kia của dây đeo đọc 'Nếu bạn có thể nhìn thấy ". Đó là một số nội dung khó hiểu mà Microsoft vẫn chưa có lời giải thích chính thức.
+
+Điều tuyệt vời của Timex Datalink 150 là chứng nhận của NASA khi được vinh dự đồng hành cùng phi hành đoàn Expedition 1 trên 136 ngày du hành trên Trạm vũ trụ quốc tế (Tháng 11 năm 2000 - tháng 3 năm 2001). Đây là lần đầu tiên với khoảng thời gian du hành trên tàu ISS kỉ lục, một thành tựu lịch sử mang tính bước ngoặt lớn trong nỗ lực của lĩnh vực hàng không vũ trụ.
+
+Lich sử ấn tượng về chiếc smartwatch đầu tiên thế giới của Microsoft và Timex
+
+Trên tay Cosmonaut Mikhail Tyurin là Timex Datalink 150, tháng 1 năm 2007. Ảnh: Internet
+
+So với công nghệ hiện đại ngày nay, Datalink có vẻ cổ điển và lạc hậu hơn rất nhiều, nhưng sau những phát minh tuyệt vời lúc bấy giờ, thiết bị là một nền tảng lớn của Microsoft và Timex đi đầu công nghệ thiết bị đeo tay thông minh, là "anh lớn" của Apple Watch và những thiết bị đeo tay thông minh ngày nay.

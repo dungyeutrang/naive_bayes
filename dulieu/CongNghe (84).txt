@@ -1,0 +1,64 @@
+﻿Samsung EVO 750 120GB - SSD phổ thông đáng sở hữu nhất hiện nay
+
+Samsung EVO 750 120GB - SSD phổ thông đáng sở hữu nhất hiện nay
+ Tuấn Việt  Thiết bị công nghệ  09:00 10/03/2016
+(Techz.vn) SSD là thành phần không thể thiếu khi cân nhắc xây dựng một hệ thống PC hay lựa chọn một chiếc laptop nhờ vào tốc độ truy xuất dữ liệu cao gấp nhiều lần so với HDD truyền thống. Nếu đang tìm mua một ổ SSD với hiệu năng tốt và giá thành hợp lý, Samsung EVO 750 120GB sẽ không làm bạn thất vọng.
+
+BÀI VIẾT LIÊN QUAN
+Samsung trình làng SSD 16TB nhanh nhất thế giới hiện nay
+Samsung chỉ định AMC là đơn vị phân phối độc quyền SSD tại Việt Nam
+Samsung VN ra mắt mẫu ổ cứng SSD giá chỉ 1,35 triệu đồng
+Intel cùng Viết Sơn ra mắt máy tính Rosa Intel NUC: CPU Skylake, chạy SSD, giá chỉ từ 5,6 triệu đồng
+SSD là một sự bổ sung hợp lý cho những ai yêu cầu một cỗ máy hoàn thiện với tốc độ khởi động nhanh hơn, bên cạnh đó, ổ cứng thể rắn còn mang lại những giải pháp tối ưu về độ bền cũng như đồ ồn bên trong hệ thống mà bạn xây dựng. Tất nhiên, đi kèm với hiệu năng, tốc độ cao hơn, chi phí ban đầu sẽ cao hơn rất nhiều so với HDD truyền thống. Dẫu vậy, với công nghệ ngày càng phát triển, quy trình sản xuất đại trà, giá thành SSD ngày càng rẻ và người dùng dễ dàng tiếp cận. Việc kết hợp 1 ổ SSD 120GB cùng 1 ổ HDD 1TB đang được rất nhiều người lựa chọn.
+
+
+
+Tại sao lại là 120GB, đây là mức dung lượng vừa đủ để có thể cài đặt Windows cũng như những ứng dụng cần thiết, đảm bảo một tốc độ khởi động tốt hơn và tất nhiên, chi phí đầu tư vô cùng rẻ. Có nhiều lựa chọn phổ thông ở mức dung lượng 120GB, trong đó, ấn tượng nhất chính là Samsung EVO 750 120GB, một sản phẩm đến từ thương hiệu lớn, uy tín và tiên phong trong việc cung cấp giải pháp SSD chất lượng cao. Samsung đã rất thành công với EVO 840 và EVO 750 là dòng phát triển dựa trên mẫu SSD đình đám này.
+
+
+
+Tuy vậy, do thuộc phân khúc phổ thông với giá thành rẻ, EVO 750 chỉ sử dụng flash NAND TLC truyền thống, không phải là 3D V-NAND TLC nhưng bù lại, nhà sản xuất bổ sung công nghệ bộ nhớ đệm TurboWrite.
+
+Với TurboWrite, tốc độ ghi của 750 EVO được tăng tốc đáng kể trong quá trình truyền tải dữ liệu bằng cách tạo ra một bộ đệm dùng để ghi dữ liệu với hiệu suất cao. Nếu một hoạt động ghi liên tục (tức là không có thời gian nhàn rỗi) vượt quá kích cỡ của bộ đệm, việc truyền dữ liệu sẽ thoát TurboWrite và được tiến hành tại tốc độ “Sau TurboWrite”. Khi bộ đệm được làm sạch, TurboWrite hoạt động trở lại. Tuy nhiên, kích cỡ bộ đệm cho TurboWrite đáp ứng đủ cho việc sử dụng máy tính hàng ngày, vì thế bạn có thể trải nghiệm tốc độ tốt hơn cho hầu hết khối lượng công việc. TurboWrite mang đến những giải pháp tăng tốc so với các dòng SSD giá rẻ khác trên thị trường.
+
+
+
+Chi tiết cắt giảm tiếp theo trên EVO 750 đó là việc Samsung chỉ trang bị bộ điều khiển giao tiếp (controller) MGX 2 nhân và đây là phiên bản rút gọn của controller 3 nhân thường được sử dụng trong các dòng SSD khác của hãng. Bộ nhớ đệm (DRAM cache) 256MB cùng firmware cũng do chính hãng phát triển nhằm tối ưu hiệu năng khi sử dụng.
+
+Về thiết kế, Samsung EVO 750 120GB cũng có thiết kế không khác những dòng lưu trữ SSD khác của hang cũng các sản phẩm khác có trên thị trường. Do đặc thù của sản phẩm nên EVO 750 120 có thiết kế quen mắt, có kích thước theo form factor 2.5”, trọng lượng vào khoảng 45gram. Bên ngoài là lớp vỏ nhôm, phủ sơn đen nhám.
+
+
+
+Trên đây là toàn bộ thông số kỹ thuật và những thay đổi trên dòng SSD EVO 750 120GB, tất nhiên, hiệu năng còn phụ thuộc vào hoạt động thực tế và thử nghiệm trên các cấu hình được lựa chọn.
+
+CẤU HÌNH THỬ NGHIỆM
+CPU: Intel Core i7-5820K@4.5GHz
+Mainboard: MSI X99S Gaming 7
+Ram: GSkill Ripjaw 16GB DDR4-2400 kit.
+VGA: Galax GTX 970 HoF
+OS: Microsoft Windows 10 64-bit.
+CÁC PHẦN MỀM ĐƯỢC DÙNG ĐỂ ĐÁNH GIÁ HIỆU NĂNG
+Anvil’s Storage Ultilities 1.1.0
+HDTune Pro 5.60
+CrystalDiskMark
+AS SSD Benchmark
+ATTO Disk Benchmark
+Các chương trình sẽ được chạy 3 lần, lấy điểm số lần cao nhất. Việc đánh giá dưa trên hai bước: ổ đĩa hoàn toàn trống và ổ đĩa chứa hơn 75% dung lượng.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trong hầu hết các bài test, hiệu suất của ổ đĩa khi dung lượng còn trống luôn ở mức cao. Không quá suất sắc nhưng với một ổ SSD giá thấp như EVO 750 thì đây là những kết quả hết sức ấn tượng

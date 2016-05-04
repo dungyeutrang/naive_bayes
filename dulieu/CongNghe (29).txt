@@ -1,0 +1,13 @@
+﻿Ứng dụng giúp mở khóa máy tính bằng smartphone
+10/03/2016  10:00 GMT+7
+Microsoft đang phát triển một ứng dụng mới giúp người dùng đăng nhập vào máy tính thông qua smartphone mà không cần phải nhập mật khẩu hoặc mã PIN vào màn hình khóa.
+
+điện thoại, mở khóa máy tính
+
+Đây được xem như cách thức mới giúp giảm thiểu tình trạng quên mật khẩu hoặc sử dụng mật khẩu không an toàn khi đăng nhập và các hệ thống máy tính quan trọng. Ứng dụng của Microsoft có tên Authenticator, giúp tự động mở khóa máy tính chạy Windows 10 thông qua kết nối Bluetooth trên điện thoại.
+
+Hiện tại, ứng dụng trên vẫn chưa được ban hành. Neowin nói rằng chỉ có điện thoại Lumia chạy bản Insider Preview build 14267 mới tải được ứng dụng này. Trang mô tả của Microsoft cho biết, Authenticator sẽ bổ sung hỗ trợ cho các tải khoản Microsoft, dùng làm giải pháp đăng nhập cho trình duyệt và mạng riêng ảo, tạo mã dùng một lần…
+
+Đăng nhập máy tính qua Bluetooth là bổ sung mới nhất của Microsoft cho Windows 10. Trước đó, công cụ Windows Hello của hệ điều hành mới nhất này đã hỗ trợ bộ đọc vân tay, cảm biến quét võng mạc, và camera nhận dạng khuôn mặt. Microsoft cũng là thành viên của liên minh FIDO, một tổ chức công nghiệp chuyên tìm kiếm và nâng cao khả năng đăng nhập an toàn trên các thiết bị thông minh.
+
+Nguyễn Minh(theo Digitaltrends)

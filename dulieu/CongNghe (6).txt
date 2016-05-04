@@ -1,0 +1,15 @@
+﻿Lần đầu tiên trí tuệ nhân tạo sáng tác tiểu thuyết
+24/03/2016  09:11 GMT+7
+Cuốn tiểu thuyết được viết bởi trí tuệ nhân tạo đã vượt qua vòng sơ khảo cuộc thi viết tiểu thuyết tại Nhật Bản.
+
+Các nhà khoa học đang cố chứng minh rằng tương lai không xa, máy móc có thể đảm nhận tất cả công việc của con người.
+
+trí tuệ nhân tạo , tiểu thuyết 
+
+Cuốn tiểu thuyết "The Day A Computer Writes A Novel", hoặc có tên tiếng Nhật là "Konpyuta ga shosetsu wo kaku hi", tuy chưa đủ sâu sắc để đạt giải thưởng văn chương Nikkei Hoshi Shinichi năm thứ 3 nhưng các thuật toán ngày càng mạnh hơn, và khả năng đạt giải của trí tuệ nhân tạo trong lần tổ chức kế tiếp sẽ là rất lớn.
+
+Thực ra, một nhóm các nhà khoa học đã chọn lựa các câu chữ rồi dùng thuật toán trí tuệ nhân tạo để viết nên cuốn tiểu thuyết trên. Dẫn đầu nhóm các nhà khoa học Nhật Bản này là Hitoshi Matsubara. Ông cùng với các đồng sự tại Đại học Future University Hakodate, Nhật Bản đã thực hiện công việc này trong nhiều năm qua.
+
+Đây được xem như lần đầu tiên trí tuệ nhân tạo có thể thực hiện các công việc tư duy sáng tạo của con người. "Cho đến nay, các chương trình trí tuệ nhân tạo đã được sử dụng để giải quyết những vấn đề đã có sẵn giải đáp, chẳng hạn như Go và Shogi. Tương lai, chúng tôi sẽ mở rộng năng lực của trí tuệ nhân tạo để chúng có thể sáng tạo như con người", Hitoshi Matsubara cho biết.
+
+Nguyễn Minh (theo Digitaltrends)

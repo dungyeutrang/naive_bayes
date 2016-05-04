@@ -1,0 +1,17 @@
+﻿Tìm ra cách thức tăng đáng kể tốc độ lướt web
+10/03/2016  09:06 GMT+7
+Các nhà nghiên cứu tại Việc công nghệ MIT và Đại học Harvard tuyên bố đã tìm ra cách thức mới giúp tăng đáng kể tốc độ lướt web dù sử dụng bất cứ trình duyệt nào.
+
+tốc độ lướt web, trình duyệt
+
+Đó chính là Polaris, hệ thống có thể giúp giảm thời gian tải trang web tới 34%. MIT và Harvard đã thử nghiệm trên 200 trang web khác nhau để rút ra kết luận này.
+
+Polaris có thể đạt được tốc độ tải web cực nhanh là nhờ giảm thiếu số lượng các đối tượng (object) mà thiết bị tải xuống khi truy cập trang web. Thông thường, khi mở một trang web như Google.com, sẽ có một loạt trao đổi giữa thiết bị và máy chủ trang web. "Các đối tượng" ở đây như tệp tin HTML, ảnh, mã JavaScript, video và nhiều thứ khác sẽ tải xuống riêng rẽ, được trình duyệt biên dịch rồi sau đó sắp xếp tạo thành một trang web có thể đọc được.
+
+Tuy nhiên, mỗi tệp tin trên có khi lại cần tải thêm một vài tệp tin liên quan nào đó để hiển thị chính xác. Thế nên mới có chuyện các trình duyệt cần thời gian để tải tất cả chúng xuống khiến cho tốc độ lướt web giảm rõ rệt.
+
+Polaris giải quyết tình trạng liên kết này bằng cách tạo ra một biểu đồ giúp xử lý tất cả đối tượng nhanh hơn và hiệu quả hơn. "Với trình duyệt Web, việc tải toàn bộ đối tượng của trang giống như kiểu đi thăm tất cả các thành phố. Polaris sẽ đưa cho bạn một danh sách cách thành phố trước khi bắt đầu chuyến đi", giáo sư James Mickens của Harvard hình tượng hóa cách thức hoạt động hiệu quả của công cụ Polaris.
+
+Tuy nhiên, Polaris cũng có những giới hạn nhất định. Nó vẫn chưa thể tăng tốc với những trang web phức tạp có quá nhiều các thành phần phụ thuộc cần tải về. Tuy nhiên, với những trang web tải bằng thiết bị di động thì Polaris sẽ là giải pháp rất tốt.
+
+Nguyễn Minh(theo Digitaltrends)

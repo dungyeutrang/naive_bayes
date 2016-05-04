@@ -1,0 +1,30 @@
+﻿ Sinh_viên Phương_Đông xây_dựng phần_mềm học tiếng Anh cho trẻ
+THÙY_LINH 29/03/16 10 : 26 THẢO_LUẬN ( 0 )
+( GDVN ) - Nhân_dịp kỷ_niệm ngày thành_lập Đoàn , ngày 26/3 , trường Đại_học dân_lập Phương_Đông tổ_chức Hội_thảo khoa_học về công_nghệ_thông_tin và truyền_thông .
+Thanh_niên đừng nghĩ mình kém_cỏi
+Trường đại_học Phương_Đông công_bố 23 đề_tài khoa_học của sinh_viên về công_nghệ
+Đào_tạo truyền_thông trong kỷ_nguyên số có lợi_thế gì ?
+Tới dự Hội_thảo khoa_học lần thứ 14 về công_nghệ_thông_tin và truyền_thông có Thứ_trưởng Bộ Thông tin và truyền_thông - TS . Nguyễn_Minh_Hồng ; ông Hà_Thái_Bảo - Giám_đốc VNPT software và các chuyên_gia hàng_đầu trong lĩnh_vực công_nghệ_thông_tin ; Ban_giám_hiệu Nhà_trường cùng thầy_cô , sinh_viên trong khoa công_nghệ_thông_tin - truyền_thông , Đại_học dân_lập Phương_Đông .
+Phát_biểu khai_mạc hội_thảo , ông Trần_Văn_Lộc , Phó_Trưởng khoa công_nghệ_thông_tin và truyền_thông trường Đại_học dân_lập Phương_Đông cho_biết , bên_cạnh chương_trình đào_tạo phù_hợp , công_tác nghiên_cứu khoa_học có vai_trò rất quan_trọng đóng_góp vào thành_công đào_tạo của một trường đại_học , nâng tầm ảnh_hưởng của trường với xã_hội và các đơn_vị tuyển_dụng .
+Khi tham_gia vào nghiên_cứu khoa_học thì mỗi sinh_viên được tham_gia vào môi_trường độc_lập , mở_mang hiểu_biết , trang_bị cho sinh_viên những kiến_thức , kinh_nghiệm quý_báu trong hành_trang vào đời .
+Năm 2016 , Hội_đồng khoa_học đã tiến_hành xét_duyệt được 53 báo_cáo ( Ảnh : Thùy_Linh )
+Theo thông_tin từ_trường Đại_học dân_lập Phương_Đông , năm 2016 , Hội_đồng khoa_học đã tiến_hành xét_duyệt được 53 báo_cáo , trong đó 30 báo_cáo của cán_bộ , giáo_viên và 23 báo_cáo của sinh_viên như :
+Điều_biến số vị_trí xung hỗn_loạn ứng_dụng ; Tìm_hiểu công_nghệ 5G ; Tìm_hiểu và xây_dựng hệ_thống phòng_chống xâm_nhập sử_dụng Snort ; Xây_dựng chương_trình quản_lý nhân_sự ; Lập_trình đa nền_tảng mobile bằng COCOS2D - X xây_dựng phần_mềm học tiếng Anh cho trẻ_em … .
+Nhìn_nhận thấy nhiều gia_đình không có điều_kiện về thời_gian , tài_chính để cho con đi học tại các trung_tâm Anh ngữ và nhiều bậc phụ_huynh chưa biết làm thế_nào để trẻ đam_mê với tiếng Anh .
+Thậm_chí , do có quá nhiều trung_tâm Anh ngữ cho trẻ nhưng các bậc cha_mẹ không biết trung_tâm nào_là sự lựa_chọn tốt nhất bởi không có thước_đo nào cho trình_độ Anh ngữ của các bé vì 99% trẻ chỉ thích chơi chứ không thích học .
+Trong khi đó , khoa_học chứng_minh , chỉ kho não bộ của bé thích_thú với một vấn_đề nào_đó bé mới có_thể tiếp_thu nhanh_nhất và giỏi nhất trong lĩnh_vực đó . Tiếng_Anh trẻ_em cũng vậy .
+Xây_dựng ý_tưởng đó , nhóm sinh_viên do Ths_Nguyễn_Thị_Hạnh hướng_dẫn đã xây_dựng mini game vừa học vừa chơi Kids_Book cho trẻ từ 2 đến 5 tuổi trên ứng_dụng Android . Kids book có cả phần tiếng anh và tiếng viết kèm theo hình_ảnh , giúp cho trẻ có_thể tự học qua các màn chơi của game .
+Sinh_viên Vũ_Duy_Anh báo_cáo đề_tài lập_trình đa nền_tảng mobile bằng COCOS2D - X xây_dựng phần_mềm học tiếng Anh cho trẻ_em ( Ảnh : Thùy_Linh )
+Việc này giúp cho các bà_mẹ có_thể làm các việc khác_nhau thay_vì ngồi và giải_thích từng từ_vựng cho trẻ . Game sẽ chia ra thành các chủ_đề khác_nhau , trẻ có_thể tự_do lựa_chọn các chủ_đề mà mình thích và nghe những từ mà trẻ nghe được từ máy và chọn vào bức ảnh mà trẻ cần phải tìm ra .
+Khi trẻ Click đúng vào hình_ảnh được nói đến trong game , game sẽ tự chuyển sang màn chơi thứ_hai . Còn khi trẻ click sai hình_ảnh cần tìm , máy sẽ nói “ SORRY” .
+Mỗi lần chọn đúng trẻ sẽ được cộng thêm một điểm vào điểm tích_lũy trong game và được ghi tên mình vào trong mục người dùng .
+Nếu ở các game khác chủ_yếu thiên về một ngôn_ngữ trong game thì Kids_Book sử_dụng cả tiếng Anh và tiếng Việt để trẻ phát_triển song_song cả 2 ngôn_ngữ cùng một lúc .
+Tại hội_thảo , Thứ_trưởng Bộ Thông tin & truyền_thông Nguyễn_Minh_Hồng đánh_giá cao hoạt_động nghiên_cứu khoa_học của khoa công_nghệ_thông_tin và truyền_thông và tin rằng các nghiên_cứu của thầy_cô và sinh_viên trường Đại_học dân_lập Phương_Đông sẽ có đóng_góp tích_cực cho sự phát_triển của ngành công_nghệ_thông_tin và truyền_thông . Đồng_thời là câu nối gắn_kết giữa doanh_nghiệp và sinh_viên .
+Trên cơ_sở đó , Việt_Nam sẽ có nguồn nhân_lực mạnh để cung_cấp cho các doanh_nghiệp công_nghệ_thông_tin và truyền_thông nhằm thúc_đẩy ứng_dụng công_nghệ_thông_tin .
+Thứ_trưởng Bộ Thông tin & truyền_thông Nguyễn_Minh_Hồng phát_biểu tại Hội_thảo ( Ảnh : Thùy_Linh )
+Thứ_trưởng cho rằng hiện doanh_số đóng_góp công_nghệ_thông_tin và truyền_thông của các doanh_nghiệp Việt chủ_yếu trong lĩnh_vực viễn_thông , còn trong lĩnh_vực công_nghệ_thông_tin vẫn chưa tương_xứng với tiềm_năng .
+Doanh_số đóng_góp công_nghệ_thông_tin và truyền_thông của doanh_nghiệp Việt_Nam mới chủ_yếu ở lĩnh_vực Viễn_thông , còn lĩnh_vực công_nghệ_thông_tin thì còn chưa tương_xứng với tiềm_năng .
+Thứ_trưởng nhấn_mạnh , trong năm 2015 , dù công_nghệ_thông_tin và truyền_thông Việt_Nam đã có những bước phát_triển mạnh_mẽ , đóng_góp hơn 10% vào GDP quốc_gia nhưng so với tiềm_năng thì những đóng_góp này vẫn chưa thực_sự rõ_ràng .
+Doanh_số phần_lớn vẫn đến từ doanh_nghiệp đầu_tư nước_ngoài . Doanh_nghiệp Việt_Nam đóng_góp chủ_yếu trong lĩnh_vực viễn_thông còn với lĩnh_vực công_nghệ_thông_tin thì doanh_nghiệp Việt chưa còn nhỏ .
+Thứ_trưởng bày_tỏ mong_muốn , Đại_học dân_lập Phương_Đông là một trong những trường dân_lập hàng_đầu cả nước với nhiều ngành đào_tạo trong đó có công_nghệ_thông_tin và truyền_thông sẽ được phát_triển mạnh hơn_nữa qua các phong_trào thi_đua để cung_cấp đội_ngũ nguồn nhân_lực ngày_càng hiệu_quả .
+Thùy_Linh

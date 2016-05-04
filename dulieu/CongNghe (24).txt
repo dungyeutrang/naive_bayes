@@ -1,0 +1,59 @@
+﻿Công ty chuyên chống DDoS vẫn bị hacker xâm nhập
+15/03/2016  18:08 GMT+7
+Công ty Staminus, đơn vị chuyên cung cấp dịch vụ hosting và chống tấn công từ chối dịch vụ (DDoS) có trụ sở tại California – Mỹ đang phải tiến hành sửa chữa một lỗ hổng lớn về dữ liệu sau khi bị những kẻ tấn công xâm nhâp một số máy chủ, lấy cắp thông tin cá nhân và các dữ liệu nhạy cảm của khách hàng.
+
+bảo mật, công ty bảo mật, chống DDoS, bị tấn công, hacker tấn công, xâm nhập,
+KKK, công ty khách hàng của Staminus đã bị mất các dữ liệu quan trọng.
+Mặc dù trên trang Twitter của công ty đã được thừa nhận là  có vấn đề vào sáng thứ 5 (10/3), nhưng không được mô tả là một cuộc xâm nhập dữ liệu.
+
+Trang web của Staminus đã phải tạm dừng lúc 8h sáng thứ 5 (10/3 theo giờ địa phương), và được thông báo trên Twitter vào trưa thứ 6 với nội dung: “ Một sự kiện bất thường đã xảy ra trên diện rộng của các hệ thống định tuyến, làm cho hệ thống mạng trục của chúng tôi bị gián đoạn”
+
+Những dữ liệu trong hệ thống của Staminus bị đánh cắp bao gồm :
+
+·         Tên  tài khoản khách hàng.
+
+·         Mật khẩu đã mã hóa.
+
+·         Địa chỉ email.
+
+·         Tên thật khách hàng.
+
+·         Thông tin thẻ tín dụng không mã hóa.
+
+·         Số thẻ hỗ trợ khách hàng.
+
+·         Dữ liệu nhật ký trên máy chủ.
+
+·         Nhật ký chat.
+
+·         Mã nguồn của một số công ty dịch vụ bao gồm Interppid.
+
+·         Cơ sở dữ liệu chính của Staminus.
+
+·         Cơ sở dữ liệu của công ty Ku Klux Klan (KKK) một khách hàng của Staminus.
+
+Dữ liệu được đưa lên internet vào ngày thứ 6 và một số khách hàng thì đang muốn xác nhận là không bị ảnh hưởng trong khối dữ liệu đã bị đánh cắp.
+
+Công ty này cũng nói rằng, các dữ liệu bị khai thác không bao gồm thông tin về số An sinh xã hội (SSN) hoặc  mã số thuế (tax ID), các khách hàng hoàn toàn có thể yên tâm.
+
+Chuyện gì đã xảy ra?
+
+Lỗ hổng dữ liệu nghiệm trọng của Staminus xảy ra sau khi các kẻ tấn công đã xâm nhập vào các máy chủ trung tâm,  kiểm soát các thiết bị định tuyến,  đưa cấu hình các thiết bị này về mặc định ban đầu của nhà sản xuất, dẫn tới làm gián đoạn toàn bộ mạng lưới của công ty.
+
+Các kẻ tấn công đã ăn cắp cơ sở dữ liệu và đưa toàn bộ lên mạng tức thời. Đường liên kết để tải các dữ liệu nội bộ của Stamius được đưa lên với dòng chữ mỉa mai: “TIPS WHEN RUNNING A SECURITY COMPANY,” kèm theo nêu ra những lỗ hổng bảo mật mà công ty này gặp phải,  như : Sử dụng chung một mật khẩu quản trị cao nhất cho các thiết bị; Kết nối tủ phân phối điện máy chủ tới mạng WAN và cho phép điểu khiển từ xa; Không bao giờ cập nhật các bản vá, nâng cấp hoặc sửa chữa các máy chủ; Lưu trữ thông tin thẻ tín dụng dưới dạng dữ liệu đơn giản, không mã hóa …..
+
+Bao nhiêu khách hàng bị ảnh hưởng?
+
+Mặc dù số lượng khách hàng bị ảnh hưởng chưa được đánh giá hết, nhưng theo báo cáo của Forber, ít nhất 15 Gigabytes dữ liệu của Staminus đã bị sao chép.
+
+Nathan Malcom, nhà nghiên cứu về bảo mật của Sinthetic Labs đã nói rằng, ông đã phân tích dữ liệu bị xâm nhập và phát hiện chúng có chứa  những thông tin về số thẻ tín dụng, ngày hết hạn, mã xác nhận thẻ (Card Verification Value -  CVV) của gần 1971 khách hàng, tất cả đều không được mã hóa.
+
+Đông cơ xâm nhập là gì?
+
+Động cơ cho việc xâm nhập dữ liệu này được dễ dàng phát hiện. Theo ghi nhận của Kreb, một trong những khách hàng của Staminus là công ty Ku Klux Klan (www.kkk.com) . Công ty cũng tổ chức một số dịch vụ IRC (Internet Relay Chat), nơi có thể cung cấp các dịch vụ tấn công DDoS quy mô lớn.
+
+Trên trang web chính thức, giám đốc điều hành Staminus - Matt Mahvi đã xác nhận về việc dữ liệu bị khai thác và ảnh hưởng đến hoạt động của công ty.
+
+Khách hàng của Staminus được khuyến cáo rà soát lại tình trạng của thẻ tín dụng và thông báo ngay cho ngân hàng khi có phát sinh các giao dịch mà không phải của chủ thẻ thực hiện. Đồng thời cần thay đổi mật khẩu tất cả các tài khoản một lần nữa để đảm bảo an toàn.
+
+Hiếu Nguyễn (Theo Forbes,Thehackernews)

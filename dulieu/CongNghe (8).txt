@@ -1,0 +1,21 @@
+﻿McAfee: Tôi biết ai đã giúp FBI "hack" iPhone
+23/03/2016  15:34 GMT+7
+John McAfee, nhà sáng lập hãng bảo mật McAfee Security phủ nhận mình là bên thứ ba bí ẩn đang giúp FBI bẻ khóa chiếc iPhone 5C mà một kẻ khủng bố trong vụ San Bernadino, California đã sử dụng hồi tháng 12, nhưng ông biết người đó là ai.
+
+"Tôi đảm bảo với các bạn là Tim Cook và Apple sẽ không vui gì với giải pháp mà FBI đang sử dụng", McAfee tuyên bố trong chương trình "Power Lunch" của đài CNBC, không quên thể hiện quan điểm rằng bản thân ông cũng không đồng tình với cách tiếp cận đó. "Nó cũng tệ như việc bạn dùng chung một chiếc chìa khóa cho tất cả mọi thiết bị trên đời này vậy".
+
+McAfee là một chuyên gia bảo mật kỳ cựu, người từng gây nhiều tranh cãi với tuyên bố "Để tôi hack chiếc iPhone đó cho". Ông từ chối tiết lộ người đang bắt tay FBI để bẻ khóa chiếc iPhone 5C nói trên, cũng như phương thức tiến hành dự định ra sao. Nhưng những lời bình luận này được đưa ra ngay sau khi Bộ Tư pháp Mỹ cho biết họ có thể đã "tìm được một bên thứ ba đồng ý hack chiếc iPhone".
+
+bảo mật, iPhone, Apple, FBI
+Apple vẫn kiên trì cuộc chiến pháp lý với FBI và từ chối bẻ khóa chiếc iPhone 5C
+Cuộc chiến giữa Apple và FBI đang ngày một gay cấn hơn với những diễn tiến hết sức bất ngờ. Khi FBI liên tục gây sức ép buộc Apple phải thay đổi thuật toán của mình để FBI có thể đột nhập được vào chiếc iPhone nói trên, còn Apple liên tục từ chối thì đột nhiên, Bộ Tư pháp Mỹ lại xin Tòa án Mỹ tạm hoãn phiên tòa đối chất giữa hai bên, với lý do là đã tìm được bên thứ ba hỗ trợ "hack" và cần thêm thời gian để thử nghiệm phương pháp nói trên, đồng nghĩa với việc không cần tới sự hợp tác của Apple nữa. 
+
+Rất nhiều hãng công nghệ lớn trên thế giới đã lên tiếng ủng hộ sự cứng rắn của Apple trong vụ việc lần này. Họ tin rằng, nếu Apple nhân nhượng thì sẽ tạo thành tiền lệ vô cùng nguy hiểm và đe dọa sự an toàn của hàng trăm triệu người sử dụng iPhone khác.
+
+McAfee nói rằng ông biết rõ lý do FBI thay đổi quyết định và rằng sử dụng phương pháp này để xâm nhập một chiếc điện thoại này sẽ "dễ dàng hơn nhiều so với cách họ yêu cầu Apple phải làm", tuy nhiên ông không ủng hộ việc đó.
+
+Trong quá khứ, McAfee nổi tiếng vì đã phát hiện ra rất nhiều lỗ hổng nguy hiểm, cũng như với nhiều lời bình luận gây tranh cãi trên mặt báo. Ông cũng chỉ trích các nỗ lực của Mỹ và các đồng minh trong việc lần theo dấu vết liên lạc của khủng bố, khi "các công nghệ cần thiết đều đã có". Ông cũng mô tả một thiết bị cụ thể có thể can thiệp vào các cuộc gọi, theo dõi bàn phím trước khi chúng được mã hóa, hay chụp lại màn hình thiết bị. "Những thiết bị này sẽ giúp theo dõi, giám sát hoạt động khủng bố một cách hiệu quả", ông nói.
+
+T.C
+
+ 

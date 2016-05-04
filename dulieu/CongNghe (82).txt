@@ -1,0 +1,15 @@
+﻿Phát triển vật liệu đánh hơi chất nổ dạng lỏng
+28/03/2016  00:14 GMT+7
+Nhiên liệu dạng lỏng ancan (Alkane) đang được các nhóm khủng bố để mắt tới để sản xuất bom. Nguy hiểm ở chỗ, cho tới nay vẫn chưa có thiết bị hiệu quả nào phát hiện được nguy cơ này. 
+
+chất nổ lỏng, vật liệu, đánh hơi,
+
+Khí gas do Alkane sản sinh ra không mùi, không màu nên không thể bị phát hiện. Rất may là một nhóm các nhà kỹ sư Đại học Utah đã phát triển ra loại sợi cáp mới dùng cho máy quét cầm tay giúp tìm ra sự hiện hữu của Alkane dù ở mức rất nhỏ. 
+
+Công nghệ này có rất nhiều ứng dụng. Nó không chỉ giúp phát hiện bom dạng lỏng mà còn giúp phát triển hệ thống cảnh báo sớm các loại rò rỉ ống dẫn dầu, thùng nhiêu liệu trên máy bay. 
+
+Phát minh trên đã được công bố trên tạp chí trực tuyến nhưng ở thời điểm hiện tại vẫn chưa thể phát triển được thiết bị cảm biến đủ nhỏ để triển khai ngoài thực tế do khí gas không phản ứng ở cấp độ hóa học. Cách duy nhất để phát hiện chúng là trong phòng thí nghiệm. 
+
+Do vậy, nhóm nghiên cứu của Đại học Utah đã phát triển một dạng sợi cáp composite có 2 điện cực nano để phát kiện khí gas Alkane. Mẫu thiết bị thử nghiệm có 16 cảm biến giúp phát hiện rất nhiều loại khí gas hóa học độc hại trong không khí. Thiết bị này có thể được triển khai tại sân bay để phát hiện chất liệu nổ dạng lỏng mà kẻ khủng bố mang theo. 
+
+Nguyễn Minh
