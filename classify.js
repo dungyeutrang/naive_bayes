@@ -79,7 +79,7 @@ db.once('open', function() {
 							_.forEach(listWordByType, function(item, keyItem) {
 								if (item.type == types[key]) {
 									// calcaulate word in type and smooth
-									item.scale = (item.count /value)*100 + 1 ;
+									item.scale = ((item.count +1)/(value+2))*100 + 1 ;
 									item.value = value;
 									scaleForType *= item.scale;
 								}
