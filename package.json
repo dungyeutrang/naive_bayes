@@ -1,10 +1,11 @@
 {
   "name": "bayes",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "init": "node --max-old-space-size=200000 init.js"
+    "init": "node --max-old-space-size=200000 init.js",
+    "classify": "node classify.js"
   },
   "dependencies": {
     "async": "^2.0.0-rc.3",
@@ -15,8 +16,10 @@
     "express": "~4.13.1",
     "jade": "~1.11.0",
     "lodash": "^4.11.2",
+    "mongoose": "^4.4.14",
     "morgan": "~1.6.1",
     "node-vntokenizer": "0.0.2",
-    "serve-favicon": "~2.3.0"
+    "serve-favicon": "~2.3.0",
+    "vietnamese-stopwords": "0.0.2"
   }
 }

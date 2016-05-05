@@ -1,9 +1,0 @@
-﻿ Lần đầu_tiên trí_tuệ_nhân_tạo sáng_tác tiểu_thuyết
-24/03/2016 09 : 11 GMT+ 7
-Cuốn tiểu_thuyết được viết bởi trí_tuệ_nhân_tạo đã vượt qua vòng sơ_khảo cuộc thi_viết tiểu_thuyết tại Nhật_Bản .
-Các nhà_khoa_học đang cố chứng_minh rằng tương_lai không xa , máy_móc có_thể đảm_nhận tất_cả công_việc của con_người .
-trí_tuệ_nhân_tạo , tiểu_thuyết
-Cuốn tiểu_thuyết " The_Day A_Computer_Writes A_Novel " , hoặc có tên tiếng Nhật là " Konpyuta ga shosetsu wo kaku hi " , tuy chưa đủ sâu_sắc để đạt giải_thưởng văn_chương Nikkei_Hoshi_Shinichi năm thứ 3 nhưng các thuật_toán ngày_càng mạnh hơn , và khả_năng đạt giải của trí_tuệ_nhân_tạo trong lần tổ_chức kế_tiếp sẽ là rất lớn .
-Thực_ra , một nhóm các nhà_khoa_học đã chọn_lựa các câu chữ rồi dùng thuật_toán trí_tuệ_nhân_tạo để viết nên cuốn tiểu_thuyết trên . Dẫn_đầu nhóm các nhà_khoa_học Nhật_Bản này là Hitoshi_Matsubara . Ông cùng_với các đồng_sự tại Đại_học Future_University_Hakodate , Nhật_Bản đã thực_hiện công_việc này trong nhiều năm qua .
-Đây được xem như lần đầu_tiên trí_tuệ_nhân_tạo có_thể thực_hiện các công_việc tư_duy sáng_tạo của con_người . " Cho_đến nay , các chương_trình trí_tuệ_nhân_tạo đã được sử_dụng để giải_quyết những vấn_đề đã có sẵn giải_đáp , chẳng_hạn như Go và Shogi . Tương_lai , chúng_tôi sẽ mở_rộng năng_lực của trí_tuệ_nhân_tạo để chúng có_thể sáng_tạo như con_người " , Hitoshi_Matsubara cho_biết .
-Nguyễn_Minh ( theo Digitaltrends )

@@ -1,0 +1,11 @@
+﻿Phần mềm MSale của MobiFone thuộc Top 10 Sao Khuê
+Ngày 25/04, Tổng Công ty Viễn thông MobiFone đã vinh dự được tôn vinh tại chương trình Danh hiệu Sao Khuê ngày 23/04/2016, với sản phẩm phần mềm mSale nằm trong Top 10 nhóm sản phẩm dịch vụ CNTT xuất sắc nhất năm 2015 về doanh thu, thương hiệu, thị phần, và đặc biệt là mức độ ảnh hưởng tới kinh tế - xã hội.
+
+ 29/400
+
+
+Giải pháp phần mềm mSale đã được triển khai tại MobiFone với vai trò là hệ thống duy nhất trong quản trị, quản lí kênh phân phối và lực lượng bán hàng lên đến 115.000 điểm bán, hơn 1500 đại lí trên nền tảng di động, phát triển trên công nghệ MobileFirst, hỗ trợ tích hợp ứng dụng với các hệ thống nghiệp vụ bên trong doanh nghiệp một cách an toàn. Đây là một công cụ hiệu quả giúp quản lí công tác phát triển thị trường, giám sát nhân viên bán hàng và chăm sóc điểm bán lẻ. Hệ thống đã góp phần không nhỏ vào mức tăng trưởng doanh thu và tốc độ phát triển kinh doanh ấn tượng trong năm 2015 của Tổng Công ty.
+
+Giải pháp mSale có thiết kế tuân thủ kiến trúc hướng dịch vụ SOA, trong đó mọi kết nối đến hệ thống khác đều thông qua trục tích hợp dịch vụ ESB. Áp dụng giải pháp công nghệ quản lí quy trình nghiệp vụ BPM để dễ dàng thiết kế, điều chỉnh theo yêu cầu sản xuất kinh doanh. Với 4 lĩnh vực kinh doanh chính là Viễn thông - CNTT, Truyền hình, Phân phối & bán lẻ , Đa dịch vụ, việc đưa Msale tham dự Sao Khuê là chứng minh nỗ lực của MobiFone trong việc cung cấp các giải pháp CNTT cho khách hàng. MobiFone mong muốn giúp các nhà sản xuất, nhà phân phối sử dụng hiệu quả phần mềm mSale trong công tác phân phối, quản lí, từ đó nâng cao hiệu quả bán hàng.
+
+Sự kiện nhận giải thưởng Sao Khuê đã diễn ra chỉ một vài ngày sau khi MobiFone chính thức khai trương cửa hàng bán lẻ thứ 10 tại thành phố Hải Phòng, đồng thời chính thức triển khai chiến dịch “Triệu trái tim kết nối” với hàng loạt ưu đãi lớn dành cho khách hàng trên cả nước trong thời gian từ 21/4 - 31/5/2016.

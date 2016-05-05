@@ -1,0 +1,15 @@
+﻿Đại học California tạo ra loại pin có tuổi thọ gấp 400 lần so với hiện tại
+Các nhà khoa học nghiên cứu vật liệu pin tại Đại học California (Mỹ) đã phát minh ra một sợi dây nano được dùng để tạo ra loại pin có thể sạc lại hàng trăm hàng ngàn lần.
+
+ 27/400
+
+
+Các nhà khoa học nghiên cứu vật liệu pin tại Đại học California (Mỹ) đã phát minh ra một sợi dây nano được dùng để tạo ra loại pin có thể sạc lại hàng trăm hàng ngàn lần, khắc phục một trong những hạn chế lớn nhất của pin kể từ khi nó được ra đời đến nay. Bất kể một tiện ích công nghệ nào đều hoạt động nhờ pin. Tuy nhiên, chất lượng của pin dường như không phát triển kịp, so với những thiết bị điện tử này. Phát minh nêu trên có thể được ứng dụng trong điện thoại thông minh, máy tính bảng, xe hơi, máy vi tính hay thậm chí là tàu vũ trụ, giúp kéo dài tuổi thọ của thiết bị, hiện bị giới hạn bởi hiện tượng ‘chai’ pin chỉ sau một vài năm sử dụng.
+
+Để làm được điều này, các nhà khoa học đã tạo ra pin từ các dây nano vàng bọc trong một lớp vỏ dioxide mangan, sau đó đặt nó trong một chất điện phân được làm bằng loại vật liệu có tính chất giống như gel Plexiglass. Việc sử dụng dây nano vốn mỏng hơn hàng ngàn lần so với sợi tóc người, có tính dẫn cao và diện tích bề mặt lớn trong pin, không phải là ý tưởng hoàn toàn mới. Pin Lithium-ion, được sử dụng trong hầu hết các smartphone, cũng được tạo thành từ các dây nano, nhưng chúng thường rất mỏng manh và dễ bị hỏng sau các chu kì sạc. Bằng cách bọc dây nano trong cả lớp vỏ và gel, các nhà nghiên cứu Mỹ đã có thể ngăn chặn các hư hại của dây trong quá trình sử dụng.
+
+Suốt 3 tháng thử nghiệm, 200.000 chu kì sạc được thực hiện, và các nhà nghiên cứu không nhận thấy bất kì sự suy giảm khả năng nạp điện hoặc thiệt hại nào xuất hiện bên trong pin. Để so sánh, các mẫu pin đang được sử dụng hiện nay có tuổi thọ tối đa sau 7.000 chu kì sạc. “Các điện cực giữ được hình dạng của nó tốt hơn nhiều, khiến nó trở thành lựa chọn đáng tin cậy hơn”, Mya Le Thai, trưởng nhóm nghiên cứu và là ứng cử viên tiến sĩ tại Đại học California, Irvine cho biết. “Nghiên cứu này chứng minh rằng một loại pin sử dụng điện cực dây nano có thể có dòng đời dài hơn”.
+
+Hiện nay, có một vài cách giúp kéo dài tuổi thọ các loại pin lithium-ion. Đối với điện thoại, nên để nó cách xa những nơi có nhiệt độ nóng (trên 30 độ C), và cố gắng sạc khi dung lượng pin còn 50%, thay vì chờ đợi cho đến khi cạn kiệt.
+
+Theo Tinh Tế.

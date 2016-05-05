@@ -1,0 +1,22 @@
+﻿Cậu bé 10 tuổi nhận 10.000 USD vì tìm ra lỗ hổng Instagram
+16:41 04/05/2016 4.8k
+4.8k
+2
+ Cậu bé nhận 10.000 USD tiền thưởng từ Facebook đã tự học các kỹ năng lập trình từ YouTube.
+Với danh tính được giữ bí mật, cậu bé 10 tuổi được gọi với tên Jani là người thành công tìm ra một lỗ hổng trên Instagram, cho phép người dùng xóa đi bất kỳ bình luận nào mình muốn, trên bất kỳ trang nào.
+
+Để chứng minh lỗi này với Facebook, cậu bé đã xóa thành công bình luận do Instagram đăng tải bằng tài khoản thử nghiệm. Bất ngờ trước thành công này, Facebook trả cho cậu bé 10.000 USD tiền thưởng theo chương trình Bug Bounty.
+
+“Tôi đã có thể xóa bất kỳ trang nào, thậm chí là Justin Bieber”, Jani nói với tờ báo Phần lan Iltalehti.
+
+Cau be 10 tuoi nhan 10.000 USD vi tim ra lo hong Instagram hinh anh 1
+Chương trình trả thưởng cho người tim ra lỗi hệ thống đang phát huy nhiều tác dụng cho Facebook. Ảnh: Android Authority.
+Facebook cũng thông tin lỗ hổng này được tạo ra bởi giao diện lập trình trên ứng dụng cá nhân, theo đó hệ thống đã thất bại trong việc nhận diện liệu người xóa và người đăng comment có phải là một.
+
+Jani tiết lộ trên AndroidAuthority sẽ dùng số tiền này để mua xe đạp và đồ chơi bóng mới.
+
+Cậu bé cũng ước mơ trở thành chuyên gia bảo mật khi lớn lên. Toàn bộ kỹ năng để hack thành công Instagram được Jani tự học thông qua các video YouTube.
+
+Chương trình Bug Bounty của Facebook vẫn đang diễn ra, theo đó, gã khổng lồ mạng xã hội sẽ thưởng tiền mặt cho bất kỳ ai báo cáo và chứng minh được lỗ hổng trên sản phẩm thuộc Facebook.
+
+Trong riêng năm 2015, đã có 210 người được trả thưởng trung bình 1.780 USD, với tổng số tiền nhận được là 936.000 USD. Kể từ khi ra đời năm 2011, Facebook đã phải chi hơn 4,3 triệu USD cho chương trình này.

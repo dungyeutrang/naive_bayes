@@ -1,0 +1,19 @@
+﻿Chrome 50 ra mắt: chính thức ngừng hỗ trợ Windows XP, Vista
+Google vừa chính thức ra mắt phiên bản Chrome 50 với tính năng thông báo được thay đổi mạnh mẽ hơn và đáng chú ý là phiên bản này sẽ ngưng hỗ trợ cho các phiên bản Windows cũ như XP hay Vista.
+
+ 14/400
+
+
+Có thể bạn không để ý, nhưng bản cập nhật mới nhất của trình duyệt Chrome đã lên đến Version 50 trên các hệ sinh thái Windows, Mac và Linux. Bản cập nhật cho các thiết bị di động cũng đang được xây dựng nhưng chưa có lịch trình phát hành cụ thể (dành cho iOS và Android).
+
+Đội ngũ phát triển của Google đã phát hành phiên bản Chrome 50 đêm qua (ngày 13/4) sau khi phiên bản beta, dev và alpha xuất hiện cách đây khá lâu. Có nhiều thay đổi trong bản cập nhật này nhưng nó chủ yếu nhắm vào việc phát triển các tính năng và cải thiện hiệu suất. Có nghĩa là người dùng khó tìm thấy nhiều tính năng hoàn toàn mới trên phiên bản Chrome 50 này.
+
+Thay đổi lớn nhất của Chrome 50 là nó sẽ không còn hỗ trợ các hệ điều hành đã lỗi thời. Nguyên nhân chủ yếu đến từ lí do tăng cường an ninh cho người dùng trình duyệt này. Cuối năm ngoái, đội ngũ phát triển Chrome đã thông báo các phiên bản tiếp theo của trình duyệt sẽ không hỗ trợ Windows XP, Vista và các phiên bản Mac OS X cũ hơn Mavericks. Tất nhiên các phiên bản trước đây của Chrome sẽ vẫn hoạt động với những nền tảng này nhưng nếu không nâng cấp, người dùng sẽ bỏ lỡ những bản vá bảo mật và các tính năng mới.
+
+Theo trang công nghệ Neowin, Chrome 50 cũng bao gồm nhiều bản vá bảo mật và fix lỗi, cũng như một thay đổi dễ nhìn thấy ở tính năng thông báo. Thay đổi này đã được thử nghiệm dần từ các phiên bản Chrome gần đây và vẫn được Google tiếp tục cải tiến với Chrome 50. Tính năng này sẽ tránh việc hiển thị lại thông báo trên các thiết bị di động khi người dùng đã xem chúng trên máy tính. Người dùng cũng có thể điều chỉnh âm thanh, thời gian và biểu tượng của các thông báo.
+
+Một thiếu sót đáng chú ý là Chrome 50 vẫn chưa được thiết kế theo ngôn ngữ phẳng Material Design và có lẽ điều này chỉ có thể trong các bản cập nhật sau.
+
+Ngoài ra, Chrome 50 sẽ có thêm tính năng preload giúp cải thiện tốc độ duyệt web và hiển thị nội dung. Các nội dung trên web sẽ được hiển thị trước khi toàn bộ website được tải về một cách đầy đủ.
+
+Theo VnReview.

@@ -1,0 +1,24 @@
+﻿Chặn những người 'xài chùa' Wi-Fi bằng smartphone
+22:20 03/05/2016 2k
+2k
+15
+Nếu cảm thấy tốc độ Wi-Fi bỗng nhiên chậm hẳn đi, bạn có thể áp dụng thủ thuật sau để kiểm tra và ngăn chặn những vị khách xài ké Wi-Fi.
+Đầu tiên, người dùng có thể thử tải Fing tại . Sau khi cài đặt hoàn tất, hãy chạm vào biểu tượng mũi tên xoay vòng (Refresh) ở góc trên bên phải để Fing bắt đầu tìm kiếm.
+
+Ứng dụng sẽ hiển thị toàn bộ thông tin bao gồm địa chỉ IP, địa chỉ MAC, tên và hãng sản xuất của các thiết bị đang kết nối vào Wi-Fi nhà bạn. 
+
+Chan nhung nguoi 'xai chua' Wi-Fi bang smartphone hinh anh 1
+Tìm kiếm các thiết bị kết nối đáng ngờ.
+Nếu thấy thiết bị nào lạ, bạn hãy ghi lại địa chỉ MAC của nó (dãy số gồm 12 chữ số, được ngăn cách bởi dấu hai chấm) để tiến hành chặn trong bước tiếp theo. 
+
+Tiếp đến, người dùng cần tải công cụ NetCut tại đây. Thay vì phải đăng nhập vào router để lọc địa chỉ MAC, bạn chỉ cần cài đặt ứng dụng NetCut cho smartphone để thực hiện việc này nhanh hơn, yêu cầu thiết bị đã được root.
+
+Giao diện chính của NetCut khá đơn giản, đầu tiên, bạn hãy nhấn nút Scan để ứng dụng tìm kiếm các thiết bị đang kết nối. 
+
+Chan nhung nguoi 'xai chua' Wi-Fi bang smartphone hinh anh 2
+Chặn những vị khách xài ké Wi-Fi. 
+Để chặn hoàn toàn những người xài ké Wi-Fi, bạn hãy chạm vào biểu tượng Wi-Fi trước tên thiết bị (máy tính, smartphone, tablet…), dựa vào địa chỉ MAC đã ghi trước đó để thiết lập chính xác hơn.
+
+Ngược lại, nếu chỉ muốn ngắt mạng trong một khoảng thời gian cụ thể thì chọn vào biểu tượng đồng hồ, sau đó thiết lập thời gian tương ứng rồi nhấn Set.
+
+Lưu ý, có hai mục không thể ngắt kết nối đó là This Device (thiết bị bạn đang sử dụng) và Gateways (modem/router). Ngoài ra, bạn cũng nên đổi mật khẩu Wi-Fi thường xuyên hơn để tránh bị người khác dò ra mật khẩu. 

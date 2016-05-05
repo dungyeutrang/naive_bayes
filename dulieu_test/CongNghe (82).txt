@@ -1,9 +1,0 @@
-﻿ Phát_triển vật_liệu đánh_hơi chất_nổ dạng lỏng
-28/03/2016 00 : 14 GMT+ 7
-Nhiên_liệu dạng lỏng ancan ( Alkane ) đang được các nhóm khủng_bố để_mắt tới để sản_xuất bom . Nguy_hiểm ở chỗ , cho tới nay vẫn chưa có thiết_bị hiệu_quả nào phát_hiện được nguy_cơ này .
-chất_nổ lỏng , vật_liệu , đánh_hơi ,
-Khí gas do Alkane sản_sinh ra không mùi , không màu nên không_thể bị phát_hiện . Rất may là một nhóm các nhà kỹ_sư Đại_học Utah đã phát_triển ra loại sợi cáp mới dùng cho máy_quét cầm tay giúp tìm ra sự hiện_hữu của Alkane dù ở mức rất nhỏ .
-Công_nghệ này có rất nhiều ứng_dụng . Nó không_chỉ giúp phát_hiện bom dạng lỏng mà_còn giúp phát_triển hệ_thống cảnh_báo sớm các loại rò_rỉ ống dẫn dầu , thùng nhiêu liệu trên máy_bay .
-Phát_minh trên đã được công_bố trên tạp_chí trực_tuyến nhưng ở thời_điểm hiện_tại vẫn chưa_thể phát_triển được thiết_bị cảm_biến đủ nhỏ để triển_khai ngoài thực_tế do khí gas không phản_ứng ở cấp_độ hóa_học . Cách duy_nhất để phát_hiện chúng là trong phòng_thí_nghiệm .
-Do_vậy , nhóm nghiên_cứu của Đại_học Utah đã phát_triển một dạng sợi cáp composite có 2 điện_cực nano để phát kiện khí gas Alkane . Mẫu thiết_bị thử_nghiệm có 16 cảm_biến giúp phát_hiện rất nhiều loại khí gas hóa_học độc_hại trong không_khí . Thiết_bị này có_thể được triển_khai tại sân_bay để phát_hiện chất_liệu nổ dạng lỏng mà kẻ khủng_bố mang theo .
-Nguyễn_Minh

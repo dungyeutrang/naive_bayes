@@ -1,8 +1,0 @@
-﻿ Ứng_dụng giúp mở khóa máy_tính bằng smartphone
-10/03/2016 10 : 00 GMT+ 7
-Microsoft đang phát_triển một ứng_dụng mới giúp người dùng đăng_nhập vào máy_tính thông_qua smartphone mà không cần phải nhập mật_khẩu hoặc mã PIN vào màn_hình khóa .
-điện_thoại , mở khóa máy_tính
-Đây được xem như cách_thức mới giúp giảm_thiểu tình_trạng quên mật_khẩu hoặc sử_dụng mật_khẩu không an_toàn khi đăng_nhập và các hệ_thống máy_tính quan_trọng . Ứng_dụng của Microsoft có tên Authenticator , giúp tự_động mở khóa máy_tính chạy Windows 10 thông_qua kết_nối Bluetooth trên điện_thoại .
-Hiện_tại , ứng_dụng trên vẫn chưa được ban_hành . Neowin nói rằng chỉ có điện_thoại Lumia chạy bản Insider_Preview build 14267 mới tải được ứng_dụng này . Trang mô_tả của Microsoft cho_biết , Authenticator sẽ bổ_sung hỗ_trợ cho các tải khoản Microsoft , dùng làm giải_pháp đăng_nhập cho trình_duyệt và mạng riêng ảo , tạo mã dùng một lần …
-Đăng_nhập máy_tính qua Bluetooth là bổ_sung mới nhất của Microsoft cho Windows 10 . Trước đó , công_cụ Windows_Hello của hệ_điều_hành mới nhất này đã hỗ_trợ bộ đọc vân tay , cảm_biến quét võng_mạc , và camera nhận_dạng khuôn_mặt . Microsoft cũng là thành_viên của liên_minh FIDO , một tổ_chức công_nghiệp chuyên tìm_kiếm và nâng cao khả_năng đăng_nhập an_toàn trên các thiết_bị thông_minh .
-Nguyễn_Minh ( theo Digitaltrends )

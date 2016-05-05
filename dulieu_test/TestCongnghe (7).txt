@@ -1,0 +1,38 @@
+﻿Toshiba giới thiệu công nghệ tiên tiến cho các dòng ổ cứng SSD và ổ cứng di động mới
+Các sản phẩm của Toshiba do AMC phân phối gồm có ổ cứng SSD và ổ cứng di động được ứng dụng công nghệ ổ cứng tiên tiến mang lại hiệu năng cao cho sản phẩm.
+
+ 26/4 15:07. Cập nhật 09:51.00
+
+
+Đại diện Toshbia Electronics Asia, ông Horikawa Takahiro trao giấy chứng nhận nhà phân phối độc quyền SSD và Ex-HDD cho Cty AMC Viet Nam
+Ngày 26/4, Tập đoàn điện tử Toshiba đã chính thức ra mắt hàng loạt sản phẩm chủ chốt trong năm 2016 tại thị trường Việt Nam do nhà phân phối ủy quyền Công ty TNHH TMDV Ánh Minh Cường (AMC) – một chi nhánh của Eternal Asia (Singapore), độc quyền phân phối.
+
+Nổi bật nhất hiện nay cho sản phẩm ổ cứng SSD là dòng Q gồm Q300 và Q300 Pro.
+
+Storage Brand Marketing (SBM), một bộ phận trực thuộc tập đoàn công nghệ điện tử Toshiba Electronics Asia (Singapore) đã chính thức công bố hai mẫu ổ cứng thể rắn SSD mới nhất với dung lượng lưu trữ tối đa lên tới 960 GB. Hai mẫu SSD mới của Toshiba chính là dòng Q300 và Q300 Pro, được nghiên cứu và sản xuất để tối ưu cho tác vụ chơi game, cũng như phục vụ nhu cầu sử dụng đòi hỏi hiệu năng hoạt động cao.
+
+Hai dòng SSD mới của Toshiba thích hợp cho những người dùng đang có ý định nâng cấp PC, thay vì trung thành với các ổ đĩa cơ HDD truyền thống. Với công nghệ Write Cache SLC, cho phép đẩy hiệu năng cao ngang bằng với các SSD sử dụng chip nhớ SLC, mà vẫn đảm bảo được hiệu năng về tốc độ cũng như khả năng tiết kiệm điện tối đa, dễ dàng kết nối với các hệ điều hành Windows, Mac và Linux.
+
+ Ảnh
+Được xây dựng dựa trên công nghệ chip nhớ NAND Flash MLC với 2bit trên mỗi cell, dòng Q300 Pro mang đến cho người dùng tốc độ đọc/ghi dữ liệu siêu tốc cùng độ bền cao. Đặc biệt, các chip nhớ được sử dụng trên dòng Q300 Pro đều được chính Toshiba nghiên cứu và sản xuất, sản phẩm “cây nhà lá vườn” này vì thế được Toshiba chăm chút và tối ưu một cách cẩn thận, đảm bảo chất lượng đáng tin cậy cho người dùng. Công nghệ sửa lỗi độc quyền của Q300 Pro còn đảm bảo được độ chính xác khi sắp xếp dữ liệu.
+
+Đặc biệt, các mẫu Q300 Pro trên thị trường có dung lượng lên tới 512 GB với kích thước siêu mỏng, chỉ 7 mm, vô cùng tiện dụng khi người dùng có ý định mang đi xa hay lắp đặt cho các hệ thống chơi game nhỏ gọn.
+
+Bên cạnh Q300 Pro còn có người “anh em” Q300 – dòng SSD được xây dựng trên công nghệ chip nhớ NAND Flash TLC với 3bit trên mỗi cell, loại bộ nhớ thường được sử dụng trong các loại thiết bị di động thông minh với tốc độ cao hơn nữa.
+
+ Ảnh
+Q300 có các mức dung lượng từ 120 GB đến 960 GB, còn Q300 Pro chỉ có từ 128 GB đến 512 GB. Cả hai đều được bảo hành chính hãng từ nhà phân phối với thời hạn 3 năm cho Q300 và 5 năm cho Q300 Pro.
+
+Về ổ cứng gắn ngoài, Toshiba giới thiệu dòng Canvio gồm mẫu Canvio Ready và Canvio Connect II.
+
+Canvio Ready có ưu điểm tốc độ cao và dễ sử dụng. Nhắc tới mẫu ổ cứng gắn ngoài mới của Toshiba – Canvio Ready, người dùng có thể liên tưởng đến một két sắt dữ liệu di động thực thụ dành cho người dùng, bảo vệ an toàn cho toàn bộ dữ liệu cùng với hiệu năng làm việc siêu tốc, dựa trên giao tiếp USB 3.0 với băng thông đạt tận 5Gbit/s.
+
+Đặc biệt là với công nghệ “plug-and-play” (chỉ cần cắm và dùng), người dùng có thể tiết kiệm rất nhiều thời gian và sử dụng dễ dàng, nhanh chóng tại bất cứ đâu mà vẫn an toàn tuyệt đối cho tài liệu, các tập tin media của người dùng. Một khi dữ liệu đã được lưu trữ trong Canvio Ready, nó sẽ được bảo vệ cẩn thận nhờ công nghệ chống sốc dựa trên một cảm biến riêng biệt, vừa được trang bị công nghệ “ramp load” độc đáo, hạn chế tối đa các tác động từ bên ngoài khi di chuyển – điều mà rất nhiều chiếc ổ cứng HDD truyền thống còn mắc phải.
+
+Với dung lượng tối đa lên tới 3 TB, người dùng chọn Canvio Ready sẽ luôn có được sự an toàn cao nhất cho dữ liệu, vừa có không gian lưu trữ rộng lớn cùng tính di động và tương thích cao trên mọi hệ điều hành Windows lẫn Mac (định dạng lại).
+
+Ngoài việc cung cấp lưu trữ từ xa độc đáo, Canvio Connect II còn tặng thêm cho người dùng tới 10 GB dung lượng lưu trữ đám mây để sao lưu nhiều dữ liệu quan trọng khi cần, thay vì tối đa là 3 TB dung lượng hiện hành trong ổ cứng.
+
+Tốc độ tải dữ liệu được tối ưu tối đa thông qua giao tiếp USB 3.0, ổ đĩa tốc độ nhanh hơn nhưng vẫn có khả năng tương thích ngược tốt với USB 2.0, mang lại hiệu năng làm việc cao. Các công nghệ bảo vệ dữ liệu của Canvio Ready cũng được ứng dụng trong Canvio Connect, tăng tuổi thọ cũng như đảm bảo an toàn cho dữ liệu của người dùng nhờ cảm biến chống sốc và thiết kế “ramp load” thông minh. Cuối cùng, người dùng có thể sao lưu dễ dàng hơn thông qua một phần mềm hỗ trợ - NTI Blackup Now EZ.
+
+Q300 dung lượng 120 GB/240 GB có giá lần lượt là 1.360.000 đồng và 2.260.000 đồng.

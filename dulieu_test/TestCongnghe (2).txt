@@ -1,0 +1,11 @@
+﻿Schneider Electric giới thiệu đồng hồ đo điện không dây PowerTag
+Tại Hội nghị Thượng đỉnh về Đổi mới Sáng tạo Công nghệ ở Pháp, Schneider Electric đã giới thiệu PowerTag, loại đồng hồ đo điện không dây có kích thước nhỏ nhất hiện nay trên thế giới, được thiết kế để nâng cao khả năng giám sát cũng như an toàn của các thiết bị điện.
+
+ 29/4 10:4000
+
+
+Được thiết kế phù hợp cho mọi loại tòa nhà, bộ cảm biến năng lượng này giám sát và đo lường lượng điện tiêu thụ, dòng điện, điện áp, công suất và hệ số công suất dễ dàng. Là thiết bị kết nối đầu tiên thuộc chủng loại này, PowerTag mang lại mức độ an ninh cao hơn cho các tài sản điện nhờ khả năng cho phép quản lí các tải trọng yếu một cách hiệu quả hơn, đồng thời giúp đơn giản hóa việc kết nối từng thiết bị đóng cắt đơn lẻ tới Hệ thống Quản lí Tòa nhà (BMS), cung cấp cho chủ tòa nhà và các chuyên gia quản lí tòa nhà các dữ liệu thời gian thực một cách chính xác và hữu ích nhằm lành mạnh hóa công tác quản lí các tài sản mang tính chiến lược trong tổng thể hạ tầng thiết bị điện.
+
+Ông Philippe Delorme, Phó Chủ tịch Điều hành, Bộ phận Giải pháp cho Tòa nhà, Schneider Electric, cho biết: “PowerTag chính là một giải pháp đổi mới sáng tạo để giúp cho việc quản lí năng lượng trở nên đơn giản hơn. Phần lớn các thiết bị đóng cắt giờ đây có thể được gắn PowerTag để có được truyền thông trong phân phối điện, và rất đơn giản vì chỉ cần 5 phút lắp đặt là thiết bị điện của bạn đã “hòa mạng” với một kết nối thực thụ”.
+
+Với thiết bị này, Schneider Electric đang từng bước thực hiện cách mạng hóa phương thức lắp đặt đồng hồ đo năng lượng trong các tủ điện và cải tiến mức độ an toàn cũng như hiệu quả sử dụng điện trong mọi loại công trình, tòa nhà. PowerTag được cung cấp trực tiếp bởi Schneider Electric, hoặc thông qua các nhà phân phối được ủy quyền của Schneider Electric.
