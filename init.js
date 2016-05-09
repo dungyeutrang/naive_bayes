@@ -24,6 +24,7 @@ db.once('open', function() {
 			fs.readFile('dulieu/' + file, function(err, data) {
 				if (err) return;
 				words = token.tokenize(data.toString());
+				words = _.uniq(words);
 				var indexOfFileType = file.indexOf(' ');
 				var type = file.substring(0, indexOfFileType)
 					// save fille

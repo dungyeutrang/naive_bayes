@@ -15,5 +15,3 @@ Theo trang công nghệ Neowin, Chrome 50 cũng bao gồm nhiều bản vá bả
 Một thiếu sót đáng chú ý là Chrome 50 vẫn chưa được thiết kế theo ngôn ngữ phẳng Material Design và có lẽ điều này chỉ có thể trong các bản cập nhật sau.
 
 Ngoài ra, Chrome 50 sẽ có thêm tính năng preload giúp cải thiện tốc độ duyệt web và hiển thị nội dung. Các nội dung trên web sẽ được hiển thị trước khi toàn bộ website được tải về một cách đầy đủ.
-
-Theo VnReview.

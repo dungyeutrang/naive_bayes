@@ -30,6 +30,7 @@ db.once('open', function() {
 			fs.readFile('dulieu_test/' + file, function(err, content) {
 				var data = content.toString('utf-8');
 				var dataToken = _.difference(token.tokenize(data), stopwords);
+				dataToken = _.uniq(dataToken);
 				DocumentWord.find().distinct('type', function(err, types) {
 					if (err) {
 						return err;
@@ -79,7 +80,7 @@ db.once('open', function() {
 							_.forEach(listWordByType, function(item, keyItem) {
 								if (item.type == types[key]) {
 									// calcaulate word in type and smooth
-									item.scale = ((item.count +1)/(value+2))*100 + 1 ;
+									item.scale = ((item.count+1)/(value+2))*100 + 1 ;
 									item.value = value;
 									scaleForType *= item.scale;
 								}
@@ -113,6 +114,8 @@ db.once('open', function() {
 	// var data = content.toString('utf-8');
 	// var dataToken = _.difference(token.tokenize(data), stopwords);
 
+	// var dataToken = _.difference(token.tokenize(data), stopwords);
+	// dataToken = _.uniq(dataToken);
 	// console.log(dataToken);
 
 	// DocumentWord.find().distinct('type', function(err, types) {
@@ -136,6 +139,7 @@ db.once('open', function() {
 	// 		});
 	// 		async.each(dataToken, function(token, callbackToken) {
 	// 			if (!Number.isInteger(parseInt(token)) && !_.isDate(token)) {
+	// 				console.log(token);
 	// 				DocumentWord.count({
 	// 					name: token.toLowerCase(),
 	// 					type: type
@@ -164,13 +168,14 @@ db.once('open', function() {
 	// 			_.forEach(listWordByType, function(item, keyItem) {
 	// 				if (item.type == types[key]) {
 	// 					// calcaulate word in type and smooth
-	// 					item.scale = (item.count+1 / value+2) ;
+	// 					item.scale = (item.count + 1 / value + 2);
 	// 					item.value = value;
 	// 					scaleForType *= item.scale;
 	// 				}
 	// 			});
 	// 			maximumLikelyHood.push(scaleForType);
 	// 		});
+	// 		console.log(maximumLikelyHood);
 	// 		// console.log(listWordByType);
 	// 		var indexMax = indexOfMax(maximumLikelyHood);
 	// 		console.log('file belongs to :' + types[indexMax]);
@@ -187,7 +192,7 @@ function indexOfMax(arr) {
 	var max = arr[0];
 	var maxIndex = 0;
 	for (var i = 1; i < arr.length; i++) {
-		if (arr[i] > max) {
+		if (arr[i] >= max) {
 			maxIndex = i;
 			max = arr[i];
 		}

@@ -62,6 +62,3 @@ Buổi thi	Gọi thí sinh vào phòng thi	Bắt đầu làm bài	Kết thúc th
 Sáng	07h00	07h45	09h15	90 phút
 Chiều	13h00	13h45	15h15
 Thí sinh làm bài thi theo hình thức thi trắc nghiệm trực tiếp trên máy tính.
-
-Hoàng Thùy
-
