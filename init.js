@@ -27,10 +27,11 @@ db.once('open', function() {
 				words = _.uniq(words);
 				var indexOfFileType = file.indexOf(' ');
 				var type = file.substring(0, indexOfFileType)
-					// save fille
+
+				// save fille
 				var numberWord = words.length;
 				_.forEach(words, function(word, keyWord) {
-					var wordOriginal = word.replace('_',' ');
+					var wordOriginal = word.replace('_', ' ');
 					if (_.indexOf(stopwords, wordOriginal.toLowerCase()) == -1 && !Number.isInteger(parseInt(word)) && !_.isDate(word)) {
 						DocumentWord.create({
 							name: word.toLowerCase(),
