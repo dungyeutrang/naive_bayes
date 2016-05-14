@@ -8,7 +8,12 @@ var app = require('../app');
 var debug = require('debug')('bayes:server');
 var http = require('http');
 var mongoose = require('mongoose')
-mongoose.connect('mongodb://localhost/' + process.env.DB_NAME);
+
+
+
+// connect database
+// 
+mongoose.connect('mongodb://localhost/bayes');
 var db = mongoose.connection;
 
 /**
@@ -21,14 +26,16 @@ app.set('port', port);
 /**
  * Create HTTP server.
  */
+
+
 db.on('error', function() {
-  console.log('Connect database error !.');
+  console.log('connect db error');
 });
 
 var server = http.createServer(app);
-
 db.once('open', function() {
-  console.log('Connect database success !');
+
+
 
   /**
    * Listen on provided port, on all network interfaces.
